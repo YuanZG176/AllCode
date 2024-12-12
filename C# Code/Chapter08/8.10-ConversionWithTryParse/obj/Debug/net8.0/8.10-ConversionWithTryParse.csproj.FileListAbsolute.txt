@@ -1,0 +1,14 @@
+E:\Code\C# Code\Chapter08\8.10-ConversionWithTryParse\bin\Debug\net8.0\8.10-ConversionWithTryParse.exe
+E:\Code\C# Code\Chapter08\8.10-ConversionWithTryParse\bin\Debug\net8.0\8.10-ConversionWithTryParse.deps.json
+E:\Code\C# Code\Chapter08\8.10-ConversionWithTryParse\bin\Debug\net8.0\8.10-ConversionWithTryParse.runtimeconfig.json
+E:\Code\C# Code\Chapter08\8.10-ConversionWithTryParse\bin\Debug\net8.0\8.10-ConversionWithTryParse.dll
+E:\Code\C# Code\Chapter08\8.10-ConversionWithTryParse\bin\Debug\net8.0\8.10-ConversionWithTryParse.pdb
+E:\Code\C# Code\Chapter08\8.10-ConversionWithTryParse\obj\Debug\net8.0\8.10-ConversionWithTryParse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\Chapter08\8.10-ConversionWithTryParse\obj\Debug\net8.0\8.10-ConversionWithTryParse.AssemblyInfoInputs.cache
+E:\Code\C# Code\Chapter08\8.10-ConversionWithTryParse\obj\Debug\net8.0\8.10-ConversionWithTryParse.AssemblyInfo.cs
+E:\Code\C# Code\Chapter08\8.10-ConversionWithTryParse\obj\Debug\net8.0\8.10-ConversionWithTryParse.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\Chapter08\8.10-ConversionWithTryParse\obj\Debug\net8.0\8.10-ConversionWithTryParse.dll
+E:\Code\C# Code\Chapter08\8.10-ConversionWithTryParse\obj\Debug\net8.0\refint\8.10-ConversionWithTryParse.dll
+E:\Code\C# Code\Chapter08\8.10-ConversionWithTryParse\obj\Debug\net8.0\8.10-ConversionWithTryParse.pdb
+E:\Code\C# Code\Chapter08\8.10-ConversionWithTryParse\obj\Debug\net8.0\8.10-ConversionWithTryParse.genruntimeconfig.cache
+E:\Code\C# Code\Chapter08\8.10-ConversionWithTryParse\obj\Debug\net8.0\ref\8.10-ConversionWithTryParse.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Chapter09\CreateEmployee3\bin\Debug\net8.0\CreateEmployee3.exe
+C:\Users\Administrator\source\repos\Chapter09\CreateEmployee3\bin\Debug\net8.0\CreateEmployee3.deps.json
+C:\Users\Administrator\source\repos\Chapter09\CreateEmployee3\bin\Debug\net8.0\CreateEmployee3.runtimeconfig.json
+C:\Users\Administrator\source\repos\Chapter09\CreateEmployee3\bin\Debug\net8.0\CreateEmployee3.dll
+C:\Users\Administrator\source\repos\Chapter09\CreateEmployee3\bin\Debug\net8.0\CreateEmployee3.pdb
+C:\Users\Administrator\source\repos\Chapter09\CreateEmployee3\obj\Debug\net8.0\CreateEmployee3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Chapter09\CreateEmployee3\obj\Debug\net8.0\CreateEmployee3.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Chapter09\CreateEmployee3\obj\Debug\net8.0\CreateEmployee3.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Chapter09\CreateEmployee3\obj\Debug\net8.0\CreateEmployee3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Chapter09\CreateEmployee3\obj\Debug\net8.0\CreateEmployee3.dll
+C:\Users\Administrator\source\repos\Chapter09\CreateEmployee3\obj\Debug\net8.0\refint\CreateEmployee3.dll
+C:\Users\Administrator\source\repos\Chapter09\CreateEmployee3\obj\Debug\net8.0\CreateEmployee3.pdb
+C:\Users\Administrator\source\repos\Chapter09\CreateEmployee3\obj\Debug\net8.0\CreateEmployee3.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Chapter09\CreateEmployee3\obj\Debug\net8.0\ref\CreateEmployee3.dll

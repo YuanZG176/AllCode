@@ -1,0 +1,14 @@
+E:\Code\C# Code\ChaoXingExercise\Exercise02\bin\Debug\net8.0\Exercise02.exe
+E:\Code\C# Code\ChaoXingExercise\Exercise02\bin\Debug\net8.0\Exercise02.deps.json
+E:\Code\C# Code\ChaoXingExercise\Exercise02\bin\Debug\net8.0\Exercise02.runtimeconfig.json
+E:\Code\C# Code\ChaoXingExercise\Exercise02\bin\Debug\net8.0\Exercise02.dll
+E:\Code\C# Code\ChaoXingExercise\Exercise02\bin\Debug\net8.0\Exercise02.pdb
+E:\Code\C# Code\ChaoXingExercise\Exercise02\obj\Debug\net8.0\Exercise02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\ChaoXingExercise\Exercise02\obj\Debug\net8.0\Exercise02.AssemblyInfoInputs.cache
+E:\Code\C# Code\ChaoXingExercise\Exercise02\obj\Debug\net8.0\Exercise02.AssemblyInfo.cs
+E:\Code\C# Code\ChaoXingExercise\Exercise02\obj\Debug\net8.0\Exercise02.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\ChaoXingExercise\Exercise02\obj\Debug\net8.0\Exercise02.dll
+E:\Code\C# Code\ChaoXingExercise\Exercise02\obj\Debug\net8.0\refint\Exercise02.dll
+E:\Code\C# Code\ChaoXingExercise\Exercise02\obj\Debug\net8.0\Exercise02.pdb
+E:\Code\C# Code\ChaoXingExercise\Exercise02\obj\Debug\net8.0\Exercise02.genruntimeconfig.cache
+E:\Code\C# Code\ChaoXingExercise\Exercise02\obj\Debug\net8.0\ref\Exercise02.dll

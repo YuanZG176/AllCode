@@ -1,0 +1,14 @@
+E:\Code\C# Code\Quiz2\Quiz2\bin\Debug\net8.0\Quiz2.exe
+E:\Code\C# Code\Quiz2\Quiz2\bin\Debug\net8.0\Quiz2.deps.json
+E:\Code\C# Code\Quiz2\Quiz2\bin\Debug\net8.0\Quiz2.runtimeconfig.json
+E:\Code\C# Code\Quiz2\Quiz2\bin\Debug\net8.0\Quiz2.dll
+E:\Code\C# Code\Quiz2\Quiz2\bin\Debug\net8.0\Quiz2.pdb
+E:\Code\C# Code\Quiz2\Quiz2\obj\Debug\net8.0\Quiz2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\Quiz2\Quiz2\obj\Debug\net8.0\Quiz2.AssemblyInfoInputs.cache
+E:\Code\C# Code\Quiz2\Quiz2\obj\Debug\net8.0\Quiz2.AssemblyInfo.cs
+E:\Code\C# Code\Quiz2\Quiz2\obj\Debug\net8.0\Quiz2.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\Quiz2\Quiz2\obj\Debug\net8.0\Quiz2.dll
+E:\Code\C# Code\Quiz2\Quiz2\obj\Debug\net8.0\refint\Quiz2.dll
+E:\Code\C# Code\Quiz2\Quiz2\obj\Debug\net8.0\Quiz2.pdb
+E:\Code\C# Code\Quiz2\Quiz2\obj\Debug\net8.0\Quiz2.genruntimeconfig.cache
+E:\Code\C# Code\Quiz2\Quiz2\obj\Debug\net8.0\ref\Quiz2.dll

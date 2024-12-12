@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Exercise01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{099CE4CE-5833-4542-8280-964C2253E6E6}|ParamsDemo\\ParamsDemo.csproj|c:\\users\\administrator\\source\\repos\\exercise01\\paramsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099CE4CE-5833-4542-8280-964C2253E6E6}|ParamsDemo\\ParamsDemo.csproj|solutionrelative:paramsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441FFD0C-5C17-4C23-B1FC-B11AA58468F1}|ConversionWithParse\\ConversionWithParse.csproj|c:\\users\\administrator\\source\\repos\\exercise01\\conversionwithparse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441FFD0C-5C17-4C23-B1FC-B11AA58468F1}|ConversionWithParse\\ConversionWithParse.csproj|solutionrelative:conversionwithparse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC67743-7514-4DB8-9DD3-B4A86E37747B}|InputMethodDemo\\InputMethodDemo.csproj|c:\\users\\administrator\\source\\repos\\exercise01\\inputmethoddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC67743-7514-4DB8-9DD3-B4A86E37747B}|InputMethodDemo\\InputMethodDemo.csproj|solutionrelative:inputmethoddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F90ADD-2EA4-4E13-9E82-4352439E5820}|ParameterDemo2\\ParameterDemo2.csproj|c:\\users\\administrator\\source\\repos\\exercise01\\parameterdemo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F90ADD-2EA4-4E13-9E82-4352439E5820}|ParameterDemo2\\ParameterDemo2.csproj|solutionrelative:parameterdemo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415D7B08-5A8F-415C-94F8-5DE23E95DC6A}|Exercise01\\Exercise01.csproj|c:\\users\\administrator\\source\\repos\\exercise01\\exercise01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415D7B08-5A8F-415C-94F8-5DE23E95DC6A}|Exercise01\\Exercise01.csproj|solutionrelative:exercise01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Exercise01\\ParamsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ParamsDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Exercise01\\ParamsDemo\\Program.cs",
+              "RelativeToolTip": "ParamsDemo\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:07:35.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Exercise01\\ConversionWithParse\\Program.cs",
+              "RelativeDocumentMoniker": "ConversionWithParse\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Exercise01\\ConversionWithParse\\Program.cs",
+              "RelativeToolTip": "ConversionWithParse\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:03:16.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Exercise01\\InputMethodDemo\\Program.cs",
+              "RelativeDocumentMoniker": "InputMethodDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Exercise01\\InputMethodDemo\\Program.cs",
+              "RelativeToolTip": "InputMethodDemo\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:51:53.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Exercise01\\ParameterDemo2\\Program.cs",
+              "RelativeDocumentMoniker": "ParameterDemo2\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Exercise01\\ParameterDemo2\\Program.cs",
+              "RelativeToolTip": "ParameterDemo2\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:36:23.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Exercise01\\Exercise01\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise01\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Exercise01\\Exercise01\\Program.cs",
+              "RelativeToolTip": "Exercise01\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:18:56.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

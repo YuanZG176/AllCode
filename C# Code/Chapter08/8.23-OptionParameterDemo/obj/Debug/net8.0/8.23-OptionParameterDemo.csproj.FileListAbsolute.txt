@@ -1,0 +1,14 @@
+E:\Code\C# Code\Chapter08\8.23-OptionParameterDemo\bin\Debug\net8.0\8.23-OptionParameterDemo.exe
+E:\Code\C# Code\Chapter08\8.23-OptionParameterDemo\bin\Debug\net8.0\8.23-OptionParameterDemo.deps.json
+E:\Code\C# Code\Chapter08\8.23-OptionParameterDemo\bin\Debug\net8.0\8.23-OptionParameterDemo.runtimeconfig.json
+E:\Code\C# Code\Chapter08\8.23-OptionParameterDemo\bin\Debug\net8.0\8.23-OptionParameterDemo.dll
+E:\Code\C# Code\Chapter08\8.23-OptionParameterDemo\bin\Debug\net8.0\8.23-OptionParameterDemo.pdb
+E:\Code\C# Code\Chapter08\8.23-OptionParameterDemo\obj\Debug\net8.0\8.23-OptionParameterDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\Chapter08\8.23-OptionParameterDemo\obj\Debug\net8.0\8.23-OptionParameterDemo.AssemblyInfoInputs.cache
+E:\Code\C# Code\Chapter08\8.23-OptionParameterDemo\obj\Debug\net8.0\8.23-OptionParameterDemo.AssemblyInfo.cs
+E:\Code\C# Code\Chapter08\8.23-OptionParameterDemo\obj\Debug\net8.0\8.23-OptionParameterDemo.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\Chapter08\8.23-OptionParameterDemo\obj\Debug\net8.0\8.23-OptionParameterDemo.dll
+E:\Code\C# Code\Chapter08\8.23-OptionParameterDemo\obj\Debug\net8.0\refint\8.23-OptionParameterDemo.dll
+E:\Code\C# Code\Chapter08\8.23-OptionParameterDemo\obj\Debug\net8.0\8.23-OptionParameterDemo.pdb
+E:\Code\C# Code\Chapter08\8.23-OptionParameterDemo\obj\Debug\net8.0\8.23-OptionParameterDemo.genruntimeconfig.cache
+E:\Code\C# Code\Chapter08\8.23-OptionParameterDemo\obj\Debug\net8.0\ref\8.23-OptionParameterDemo.dll

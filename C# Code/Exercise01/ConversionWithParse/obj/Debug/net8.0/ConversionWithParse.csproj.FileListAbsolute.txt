@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Exercise01\ConversionWithParse\bin\Debug\net8.0\ConversionWithParse.exe
+C:\Users\Administrator\source\repos\Exercise01\ConversionWithParse\bin\Debug\net8.0\ConversionWithParse.deps.json
+C:\Users\Administrator\source\repos\Exercise01\ConversionWithParse\bin\Debug\net8.0\ConversionWithParse.runtimeconfig.json
+C:\Users\Administrator\source\repos\Exercise01\ConversionWithParse\bin\Debug\net8.0\ConversionWithParse.dll
+C:\Users\Administrator\source\repos\Exercise01\ConversionWithParse\bin\Debug\net8.0\ConversionWithParse.pdb
+C:\Users\Administrator\source\repos\Exercise01\ConversionWithParse\obj\Debug\net8.0\ConversionWithParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Exercise01\ConversionWithParse\obj\Debug\net8.0\ConversionWithParse.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Exercise01\ConversionWithParse\obj\Debug\net8.0\ConversionWithParse.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Exercise01\ConversionWithParse\obj\Debug\net8.0\ConversionWithParse.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Exercise01\ConversionWithParse\obj\Debug\net8.0\ConversionWithParse.dll
+C:\Users\Administrator\source\repos\Exercise01\ConversionWithParse\obj\Debug\net8.0\refint\ConversionWithParse.dll
+C:\Users\Administrator\source\repos\Exercise01\ConversionWithParse\obj\Debug\net8.0\ConversionWithParse.pdb
+C:\Users\Administrator\source\repos\Exercise01\ConversionWithParse\obj\Debug\net8.0\ConversionWithParse.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Exercise01\ConversionWithParse\obj\Debug\net8.0\ref\ConversionWithParse.dll

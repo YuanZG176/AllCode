@@ -1,0 +1,14 @@
+E:\Code\C# Code\Chapter08\8.15-BorderDemo1\bin\Debug\net8.0\8.15-BorderDemo1.exe
+E:\Code\C# Code\Chapter08\8.15-BorderDemo1\bin\Debug\net8.0\8.15-BorderDemo1.deps.json
+E:\Code\C# Code\Chapter08\8.15-BorderDemo1\bin\Debug\net8.0\8.15-BorderDemo1.runtimeconfig.json
+E:\Code\C# Code\Chapter08\8.15-BorderDemo1\bin\Debug\net8.0\8.15-BorderDemo1.dll
+E:\Code\C# Code\Chapter08\8.15-BorderDemo1\bin\Debug\net8.0\8.15-BorderDemo1.pdb
+E:\Code\C# Code\Chapter08\8.15-BorderDemo1\obj\Debug\net8.0\8.15-BorderDemo1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\Chapter08\8.15-BorderDemo1\obj\Debug\net8.0\8.15-BorderDemo1.AssemblyInfoInputs.cache
+E:\Code\C# Code\Chapter08\8.15-BorderDemo1\obj\Debug\net8.0\8.15-BorderDemo1.AssemblyInfo.cs
+E:\Code\C# Code\Chapter08\8.15-BorderDemo1\obj\Debug\net8.0\8.15-BorderDemo1.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\Chapter08\8.15-BorderDemo1\obj\Debug\net8.0\8.15-BorderDemo1.dll
+E:\Code\C# Code\Chapter08\8.15-BorderDemo1\obj\Debug\net8.0\refint\8.15-BorderDemo1.dll
+E:\Code\C# Code\Chapter08\8.15-BorderDemo1\obj\Debug\net8.0\8.15-BorderDemo1.pdb
+E:\Code\C# Code\Chapter08\8.15-BorderDemo1\obj\Debug\net8.0\8.15-BorderDemo1.genruntimeconfig.cache
+E:\Code\C# Code\Chapter08\8.15-BorderDemo1\obj\Debug\net8.0\ref\8.15-BorderDemo1.dll

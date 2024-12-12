@@ -1,0 +1,10 @@
+E:\Code\C# Code\WindowsFormsApp1\WindowsFormsCalculateDemo\bin\Debug\WindowsFormsCalculateDemo.exe.config
+E:\Code\C# Code\WindowsFormsApp1\WindowsFormsCalculateDemo\bin\Debug\WindowsFormsCalculateDemo.exe
+E:\Code\C# Code\WindowsFormsApp1\WindowsFormsCalculateDemo\bin\Debug\WindowsFormsCalculateDemo.pdb
+E:\Code\C# Code\WindowsFormsApp1\WindowsFormsCalculateDemo\obj\Debug\WindowsFormsCalculateDemo.csproj.AssemblyReference.cache
+E:\Code\C# Code\WindowsFormsApp1\WindowsFormsCalculateDemo\obj\Debug\WindowsFormsCalculateDemo.Form1.resources
+E:\Code\C# Code\WindowsFormsApp1\WindowsFormsCalculateDemo\obj\Debug\WindowsFormsCalculateDemo.Properties.Resources.resources
+E:\Code\C# Code\WindowsFormsApp1\WindowsFormsCalculateDemo\obj\Debug\WindowsFormsCalculateDemo.csproj.GenerateResource.cache
+E:\Code\C# Code\WindowsFormsApp1\WindowsFormsCalculateDemo\obj\Debug\WindowsFormsCalculateDemo.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\WindowsFormsApp1\WindowsFormsCalculateDemo\obj\Debug\WindowsFormsCalculateDemo.exe
+E:\Code\C# Code\WindowsFormsApp1\WindowsFormsCalculateDemo\obj\Debug\WindowsFormsCalculateDemo.pdb

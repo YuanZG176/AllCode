@@ -1,0 +1,14 @@
+E:\Code\C# Code\WriteSequentialFile\bin\Debug\net8.0\WriteSequentialFile.exe
+E:\Code\C# Code\WriteSequentialFile\bin\Debug\net8.0\WriteSequentialFile.deps.json
+E:\Code\C# Code\WriteSequentialFile\bin\Debug\net8.0\WriteSequentialFile.runtimeconfig.json
+E:\Code\C# Code\WriteSequentialFile\bin\Debug\net8.0\WriteSequentialFile.dll
+E:\Code\C# Code\WriteSequentialFile\bin\Debug\net8.0\WriteSequentialFile.pdb
+E:\Code\C# Code\WriteSequentialFile\obj\Debug\net8.0\WriteSequentialFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\WriteSequentialFile\obj\Debug\net8.0\WriteSequentialFile.AssemblyInfoInputs.cache
+E:\Code\C# Code\WriteSequentialFile\obj\Debug\net8.0\WriteSequentialFile.AssemblyInfo.cs
+E:\Code\C# Code\WriteSequentialFile\obj\Debug\net8.0\WriteSequentialFile.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\WriteSequentialFile\obj\Debug\net8.0\WriteSequentialFile.dll
+E:\Code\C# Code\WriteSequentialFile\obj\Debug\net8.0\refint\WriteSequentialFile.dll
+E:\Code\C# Code\WriteSequentialFile\obj\Debug\net8.0\WriteSequentialFile.pdb
+E:\Code\C# Code\WriteSequentialFile\obj\Debug\net8.0\WriteSequentialFile.genruntimeconfig.cache
+E:\Code\C# Code\WriteSequentialFile\obj\Debug\net8.0\ref\WriteSequentialFile.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\C# Code\\COMP123_quiz1_Yuan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{749A9798-6540-4621-9808-B572EF586644}|COMP123_quiz1_Yuan\\COMP123_quiz1_Yuan.csproj|e:\\code\\c# code\\comp123_quiz1_yuan\\comp123_quiz1_yuan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749A9798-6540-4621-9808-B572EF586644}|COMP123_quiz1_Yuan\\COMP123_quiz1_Yuan.csproj|solutionrelative:comp123_quiz1_yuan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\COMP123_quiz1_Yuan\\COMP123_quiz1_Yuan\\Program.cs",
+              "RelativeDocumentMoniker": "COMP123_quiz1_Yuan\\Program.cs",
+              "ToolTip": "E:\\Code\\C# Code\\COMP123_quiz1_Yuan\\COMP123_quiz1_Yuan\\Program.cs",
+              "RelativeToolTip": "COMP123_quiz1_Yuan\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:17:01.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Chapter09\9.30-DemoObjectInitializer\bin\Debug\net8.0\9.30-DemoObjectInitializer.exe
+C:\Users\Administrator\source\repos\Chapter09\9.30-DemoObjectInitializer\bin\Debug\net8.0\9.30-DemoObjectInitializer.deps.json
+C:\Users\Administrator\source\repos\Chapter09\9.30-DemoObjectInitializer\bin\Debug\net8.0\9.30-DemoObjectInitializer.runtimeconfig.json
+C:\Users\Administrator\source\repos\Chapter09\9.30-DemoObjectInitializer\bin\Debug\net8.0\9.30-DemoObjectInitializer.dll
+C:\Users\Administrator\source\repos\Chapter09\9.30-DemoObjectInitializer\bin\Debug\net8.0\9.30-DemoObjectInitializer.pdb
+C:\Users\Administrator\source\repos\Chapter09\9.30-DemoObjectInitializer\obj\Debug\net8.0\9.30-DemoObjectInitializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Chapter09\9.30-DemoObjectInitializer\obj\Debug\net8.0\9.30-DemoObjectInitializer.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Chapter09\9.30-DemoObjectInitializer\obj\Debug\net8.0\9.30-DemoObjectInitializer.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Chapter09\9.30-DemoObjectInitializer\obj\Debug\net8.0\9.30-DemoObjectInitializer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Chapter09\9.30-DemoObjectInitializer\obj\Debug\net8.0\9.30-DemoObjectInitializer.dll
+C:\Users\Administrator\source\repos\Chapter09\9.30-DemoObjectInitializer\obj\Debug\net8.0\refint\9.30-DemoObjectInitializer.dll
+C:\Users\Administrator\source\repos\Chapter09\9.30-DemoObjectInitializer\obj\Debug\net8.0\9.30-DemoObjectInitializer.pdb
+C:\Users\Administrator\source\repos\Chapter09\9.30-DemoObjectInitializer\obj\Debug\net8.0\9.30-DemoObjectInitializer.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Chapter09\9.30-DemoObjectInitializer\obj\Debug\net8.0\ref\9.30-DemoObjectInitializer.dll

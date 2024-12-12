@@ -1,0 +1,10 @@
+E:\Code\C# Code\Quiz3\Quiz3\bin\Debug\Quiz3.exe.config
+E:\Code\C# Code\Quiz3\Quiz3\bin\Debug\Quiz3.exe
+E:\Code\C# Code\Quiz3\Quiz3\bin\Debug\Quiz3.pdb
+E:\Code\C# Code\Quiz3\Quiz3\obj\Debug\Quiz3.csproj.AssemblyReference.cache
+E:\Code\C# Code\Quiz3\Quiz3\obj\Debug\Quiz3.Fraction.resources
+E:\Code\C# Code\Quiz3\Quiz3\obj\Debug\Quiz3.Properties.Resources.resources
+E:\Code\C# Code\Quiz3\Quiz3\obj\Debug\Quiz3.csproj.GenerateResource.cache
+E:\Code\C# Code\Quiz3\Quiz3\obj\Debug\Quiz3.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\Quiz3\Quiz3\obj\Debug\Quiz3.exe
+E:\Code\C# Code\Quiz3\Quiz3\obj\Debug\Quiz3.pdb

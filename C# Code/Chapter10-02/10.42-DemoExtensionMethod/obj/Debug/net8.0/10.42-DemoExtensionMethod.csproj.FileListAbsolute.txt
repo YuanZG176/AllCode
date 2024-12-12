@@ -1,0 +1,14 @@
+E:\Code\C# Code\Chapter10-02\10.42-DemoExtensionMethod\bin\Debug\net8.0\10.42-DemoExtensionMethod.exe
+E:\Code\C# Code\Chapter10-02\10.42-DemoExtensionMethod\bin\Debug\net8.0\10.42-DemoExtensionMethod.deps.json
+E:\Code\C# Code\Chapter10-02\10.42-DemoExtensionMethod\bin\Debug\net8.0\10.42-DemoExtensionMethod.runtimeconfig.json
+E:\Code\C# Code\Chapter10-02\10.42-DemoExtensionMethod\bin\Debug\net8.0\10.42-DemoExtensionMethod.dll
+E:\Code\C# Code\Chapter10-02\10.42-DemoExtensionMethod\bin\Debug\net8.0\10.42-DemoExtensionMethod.pdb
+E:\Code\C# Code\Chapter10-02\10.42-DemoExtensionMethod\obj\Debug\net8.0\10.42-DemoExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\Chapter10-02\10.42-DemoExtensionMethod\obj\Debug\net8.0\10.42-DemoExtensionMethod.AssemblyInfoInputs.cache
+E:\Code\C# Code\Chapter10-02\10.42-DemoExtensionMethod\obj\Debug\net8.0\10.42-DemoExtensionMethod.AssemblyInfo.cs
+E:\Code\C# Code\Chapter10-02\10.42-DemoExtensionMethod\obj\Debug\net8.0\10.42-DemoExtensionMethod.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\Chapter10-02\10.42-DemoExtensionMethod\obj\Debug\net8.0\10.42-DemoExtensionMethod.dll
+E:\Code\C# Code\Chapter10-02\10.42-DemoExtensionMethod\obj\Debug\net8.0\refint\10.42-DemoExtensionMethod.dll
+E:\Code\C# Code\Chapter10-02\10.42-DemoExtensionMethod\obj\Debug\net8.0\10.42-DemoExtensionMethod.pdb
+E:\Code\C# Code\Chapter10-02\10.42-DemoExtensionMethod\obj\Debug\net8.0\10.42-DemoExtensionMethod.genruntimeconfig.cache
+E:\Code\C# Code\Chapter10-02\10.42-DemoExtensionMethod\obj\Debug\net8.0\ref\10.42-DemoExtensionMethod.dll

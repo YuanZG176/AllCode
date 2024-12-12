@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Chapter10\10.13-DemoStudents\bin\Debug\net8.0\10.13-DemoStudents.exe
+C:\Users\Administrator\source\repos\Chapter10\10.13-DemoStudents\bin\Debug\net8.0\10.13-DemoStudents.deps.json
+C:\Users\Administrator\source\repos\Chapter10\10.13-DemoStudents\bin\Debug\net8.0\10.13-DemoStudents.runtimeconfig.json
+C:\Users\Administrator\source\repos\Chapter10\10.13-DemoStudents\bin\Debug\net8.0\10.13-DemoStudents.dll
+C:\Users\Administrator\source\repos\Chapter10\10.13-DemoStudents\bin\Debug\net8.0\10.13-DemoStudents.pdb
+C:\Users\Administrator\source\repos\Chapter10\10.13-DemoStudents\obj\Debug\net8.0\10.13-DemoStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Chapter10\10.13-DemoStudents\obj\Debug\net8.0\10.13-DemoStudents.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Chapter10\10.13-DemoStudents\obj\Debug\net8.0\10.13-DemoStudents.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Chapter10\10.13-DemoStudents\obj\Debug\net8.0\10.13-DemoStudents.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Chapter10\10.13-DemoStudents\obj\Debug\net8.0\10.13-DemoStudents.dll
+C:\Users\Administrator\source\repos\Chapter10\10.13-DemoStudents\obj\Debug\net8.0\refint\10.13-DemoStudents.dll
+C:\Users\Administrator\source\repos\Chapter10\10.13-DemoStudents\obj\Debug\net8.0\10.13-DemoStudents.pdb
+C:\Users\Administrator\source\repos\Chapter10\10.13-DemoStudents\obj\Debug\net8.0\10.13-DemoStudents.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Chapter10\10.13-DemoStudents\obj\Debug\net8.0\ref\10.13-DemoStudents.dll

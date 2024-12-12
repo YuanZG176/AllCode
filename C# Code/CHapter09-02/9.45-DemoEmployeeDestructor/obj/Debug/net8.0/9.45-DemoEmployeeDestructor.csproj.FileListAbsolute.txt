@@ -1,0 +1,14 @@
+E:\Code\C# Code\CHapter09-02\9.45-DemoEmployeeDestructor\bin\Debug\net8.0\9.45-DemoEmployeeDestructor.exe
+E:\Code\C# Code\CHapter09-02\9.45-DemoEmployeeDestructor\bin\Debug\net8.0\9.45-DemoEmployeeDestructor.deps.json
+E:\Code\C# Code\CHapter09-02\9.45-DemoEmployeeDestructor\bin\Debug\net8.0\9.45-DemoEmployeeDestructor.runtimeconfig.json
+E:\Code\C# Code\CHapter09-02\9.45-DemoEmployeeDestructor\bin\Debug\net8.0\9.45-DemoEmployeeDestructor.dll
+E:\Code\C# Code\CHapter09-02\9.45-DemoEmployeeDestructor\bin\Debug\net8.0\9.45-DemoEmployeeDestructor.pdb
+E:\Code\C# Code\CHapter09-02\9.45-DemoEmployeeDestructor\obj\Debug\net8.0\9.45-DemoEmployeeDestructor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\CHapter09-02\9.45-DemoEmployeeDestructor\obj\Debug\net8.0\9.45-DemoEmployeeDestructor.AssemblyInfoInputs.cache
+E:\Code\C# Code\CHapter09-02\9.45-DemoEmployeeDestructor\obj\Debug\net8.0\9.45-DemoEmployeeDestructor.AssemblyInfo.cs
+E:\Code\C# Code\CHapter09-02\9.45-DemoEmployeeDestructor\obj\Debug\net8.0\9.45-DemoEmployeeDestructor.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\CHapter09-02\9.45-DemoEmployeeDestructor\obj\Debug\net8.0\9.45-DemoEmployeeDestructor.dll
+E:\Code\C# Code\CHapter09-02\9.45-DemoEmployeeDestructor\obj\Debug\net8.0\refint\9.45-DemoEmployeeDestructor.dll
+E:\Code\C# Code\CHapter09-02\9.45-DemoEmployeeDestructor\obj\Debug\net8.0\9.45-DemoEmployeeDestructor.pdb
+E:\Code\C# Code\CHapter09-02\9.45-DemoEmployeeDestructor\obj\Debug\net8.0\9.45-DemoEmployeeDestructor.genruntimeconfig.cache
+E:\Code\C# Code\CHapter09-02\9.45-DemoEmployeeDestructor\obj\Debug\net8.0\ref\9.45-DemoEmployeeDestructor.dll

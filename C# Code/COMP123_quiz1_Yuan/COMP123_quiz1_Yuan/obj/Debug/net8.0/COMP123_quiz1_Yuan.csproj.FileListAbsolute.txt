@@ -1,0 +1,14 @@
+E:\Code\C# Code\COMP123_quiz1_Yuan\COMP123_quiz1_Yuan\bin\Debug\net8.0\COMP123_quiz1_Yuan.exe
+E:\Code\C# Code\COMP123_quiz1_Yuan\COMP123_quiz1_Yuan\bin\Debug\net8.0\COMP123_quiz1_Yuan.deps.json
+E:\Code\C# Code\COMP123_quiz1_Yuan\COMP123_quiz1_Yuan\bin\Debug\net8.0\COMP123_quiz1_Yuan.runtimeconfig.json
+E:\Code\C# Code\COMP123_quiz1_Yuan\COMP123_quiz1_Yuan\bin\Debug\net8.0\COMP123_quiz1_Yuan.dll
+E:\Code\C# Code\COMP123_quiz1_Yuan\COMP123_quiz1_Yuan\bin\Debug\net8.0\COMP123_quiz1_Yuan.pdb
+E:\Code\C# Code\COMP123_quiz1_Yuan\COMP123_quiz1_Yuan\obj\Debug\net8.0\COMP123_quiz1_Yuan.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\COMP123_quiz1_Yuan\COMP123_quiz1_Yuan\obj\Debug\net8.0\COMP123_quiz1_Yuan.AssemblyInfoInputs.cache
+E:\Code\C# Code\COMP123_quiz1_Yuan\COMP123_quiz1_Yuan\obj\Debug\net8.0\COMP123_quiz1_Yuan.AssemblyInfo.cs
+E:\Code\C# Code\COMP123_quiz1_Yuan\COMP123_quiz1_Yuan\obj\Debug\net8.0\COMP123_quiz1_Yuan.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\COMP123_quiz1_Yuan\COMP123_quiz1_Yuan\obj\Debug\net8.0\COMP123_quiz1_Yuan.dll
+E:\Code\C# Code\COMP123_quiz1_Yuan\COMP123_quiz1_Yuan\obj\Debug\net8.0\refint\COMP123_quiz1_Yuan.dll
+E:\Code\C# Code\COMP123_quiz1_Yuan\COMP123_quiz1_Yuan\obj\Debug\net8.0\COMP123_quiz1_Yuan.pdb
+E:\Code\C# Code\COMP123_quiz1_Yuan\COMP123_quiz1_Yuan\obj\Debug\net8.0\COMP123_quiz1_Yuan.genruntimeconfig.cache
+E:\Code\C# Code\COMP123_quiz1_Yuan\COMP123_quiz1_Yuan\obj\Debug\net8.0\ref\COMP123_quiz1_Yuan.dll

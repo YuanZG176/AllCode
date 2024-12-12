@@ -1,0 +1,14 @@
+E:\Code\C# Code\Chapter14\FindEmployee\bin\Debug\net8.0\FindEmployee.exe
+E:\Code\C# Code\Chapter14\FindEmployee\bin\Debug\net8.0\FindEmployee.deps.json
+E:\Code\C# Code\Chapter14\FindEmployee\bin\Debug\net8.0\FindEmployee.runtimeconfig.json
+E:\Code\C# Code\Chapter14\FindEmployee\bin\Debug\net8.0\FindEmployee.dll
+E:\Code\C# Code\Chapter14\FindEmployee\bin\Debug\net8.0\FindEmployee.pdb
+E:\Code\C# Code\Chapter14\FindEmployee\obj\Debug\net8.0\FindEmployee.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\Chapter14\FindEmployee\obj\Debug\net8.0\FindEmployee.AssemblyInfoInputs.cache
+E:\Code\C# Code\Chapter14\FindEmployee\obj\Debug\net8.0\FindEmployee.AssemblyInfo.cs
+E:\Code\C# Code\Chapter14\FindEmployee\obj\Debug\net8.0\FindEmployee.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\Chapter14\FindEmployee\obj\Debug\net8.0\FindEmployee.dll
+E:\Code\C# Code\Chapter14\FindEmployee\obj\Debug\net8.0\refint\FindEmployee.dll
+E:\Code\C# Code\Chapter14\FindEmployee\obj\Debug\net8.0\FindEmployee.pdb
+E:\Code\C# Code\Chapter14\FindEmployee\obj\Debug\net8.0\FindEmployee.genruntimeconfig.cache
+E:\Code\C# Code\Chapter14\FindEmployee\obj\Debug\net8.0\ref\FindEmployee.dll

@@ -1,0 +1,15 @@
+maggie6
+female
+1005
+happy
+male
+1009
+janny
+female
+108
+Jerry
+male
+0101
+
+
+

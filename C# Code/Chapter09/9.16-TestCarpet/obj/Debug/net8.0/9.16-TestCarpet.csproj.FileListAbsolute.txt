@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Chapter09\9.16-TestCarpet\bin\Debug\net8.0\9.16-TestCarpet.exe
+C:\Users\Administrator\source\repos\Chapter09\9.16-TestCarpet\bin\Debug\net8.0\9.16-TestCarpet.deps.json
+C:\Users\Administrator\source\repos\Chapter09\9.16-TestCarpet\bin\Debug\net8.0\9.16-TestCarpet.runtimeconfig.json
+C:\Users\Administrator\source\repos\Chapter09\9.16-TestCarpet\bin\Debug\net8.0\9.16-TestCarpet.dll
+C:\Users\Administrator\source\repos\Chapter09\9.16-TestCarpet\bin\Debug\net8.0\9.16-TestCarpet.pdb
+C:\Users\Administrator\source\repos\Chapter09\9.16-TestCarpet\obj\Debug\net8.0\9.16-TestCarpet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Chapter09\9.16-TestCarpet\obj\Debug\net8.0\9.16-TestCarpet.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Chapter09\9.16-TestCarpet\obj\Debug\net8.0\9.16-TestCarpet.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Chapter09\9.16-TestCarpet\obj\Debug\net8.0\9.16-TestCarpet.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Chapter09\9.16-TestCarpet\obj\Debug\net8.0\9.16-TestCarpet.dll
+C:\Users\Administrator\source\repos\Chapter09\9.16-TestCarpet\obj\Debug\net8.0\refint\9.16-TestCarpet.dll
+C:\Users\Administrator\source\repos\Chapter09\9.16-TestCarpet\obj\Debug\net8.0\9.16-TestCarpet.pdb
+C:\Users\Administrator\source\repos\Chapter09\9.16-TestCarpet\obj\Debug\net8.0\9.16-TestCarpet.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Chapter09\9.16-TestCarpet\obj\Debug\net8.0\ref\9.16-TestCarpet.dll

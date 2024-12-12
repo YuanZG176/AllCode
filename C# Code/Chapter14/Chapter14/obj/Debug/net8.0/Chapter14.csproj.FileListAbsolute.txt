@@ -1,0 +1,14 @@
+E:\Code\C# Code\Chapter14\Chapter14\bin\Debug\net8.0\Chapter14.exe
+E:\Code\C# Code\Chapter14\Chapter14\bin\Debug\net8.0\Chapter14.deps.json
+E:\Code\C# Code\Chapter14\Chapter14\bin\Debug\net8.0\Chapter14.runtimeconfig.json
+E:\Code\C# Code\Chapter14\Chapter14\bin\Debug\net8.0\Chapter14.dll
+E:\Code\C# Code\Chapter14\Chapter14\bin\Debug\net8.0\Chapter14.pdb
+E:\Code\C# Code\Chapter14\Chapter14\obj\Debug\net8.0\Chapter14.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\Chapter14\Chapter14\obj\Debug\net8.0\Chapter14.AssemblyInfoInputs.cache
+E:\Code\C# Code\Chapter14\Chapter14\obj\Debug\net8.0\Chapter14.AssemblyInfo.cs
+E:\Code\C# Code\Chapter14\Chapter14\obj\Debug\net8.0\Chapter14.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\Chapter14\Chapter14\obj\Debug\net8.0\Chapter14.dll
+E:\Code\C# Code\Chapter14\Chapter14\obj\Debug\net8.0\refint\Chapter14.dll
+E:\Code\C# Code\Chapter14\Chapter14\obj\Debug\net8.0\Chapter14.pdb
+E:\Code\C# Code\Chapter14\Chapter14\obj\Debug\net8.0\Chapter14.genruntimeconfig.cache
+E:\Code\C# Code\Chapter14\Chapter14\obj\Debug\net8.0\ref\Chapter14.dll

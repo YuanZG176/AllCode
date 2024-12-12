@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Chapter10\10.25-TestHashCode\bin\Debug\net8.0\10.25-TestHashCode.exe
+C:\Users\Administrator\source\repos\Chapter10\10.25-TestHashCode\bin\Debug\net8.0\10.25-TestHashCode.deps.json
+C:\Users\Administrator\source\repos\Chapter10\10.25-TestHashCode\bin\Debug\net8.0\10.25-TestHashCode.runtimeconfig.json
+C:\Users\Administrator\source\repos\Chapter10\10.25-TestHashCode\bin\Debug\net8.0\10.25-TestHashCode.dll
+C:\Users\Administrator\source\repos\Chapter10\10.25-TestHashCode\bin\Debug\net8.0\10.25-TestHashCode.pdb
+C:\Users\Administrator\source\repos\Chapter10\10.25-TestHashCode\obj\Debug\net8.0\10.25-TestHashCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Chapter10\10.25-TestHashCode\obj\Debug\net8.0\10.25-TestHashCode.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Chapter10\10.25-TestHashCode\obj\Debug\net8.0\10.25-TestHashCode.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Chapter10\10.25-TestHashCode\obj\Debug\net8.0\10.25-TestHashCode.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Chapter10\10.25-TestHashCode\obj\Debug\net8.0\10.25-TestHashCode.dll
+C:\Users\Administrator\source\repos\Chapter10\10.25-TestHashCode\obj\Debug\net8.0\refint\10.25-TestHashCode.dll
+C:\Users\Administrator\source\repos\Chapter10\10.25-TestHashCode\obj\Debug\net8.0\10.25-TestHashCode.pdb
+C:\Users\Administrator\source\repos\Chapter10\10.25-TestHashCode\obj\Debug\net8.0\10.25-TestHashCode.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Chapter10\10.25-TestHashCode\obj\Debug\net8.0\ref\10.25-TestHashCode.dll

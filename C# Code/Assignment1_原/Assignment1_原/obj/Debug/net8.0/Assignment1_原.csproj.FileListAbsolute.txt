@@ -1,0 +1,14 @@
+E:\Code\C# Code\Assignment1_原\Assignment1_原\bin\Debug\net8.0\Assignment1_原.exe
+E:\Code\C# Code\Assignment1_原\Assignment1_原\bin\Debug\net8.0\Assignment1_原.deps.json
+E:\Code\C# Code\Assignment1_原\Assignment1_原\bin\Debug\net8.0\Assignment1_原.runtimeconfig.json
+E:\Code\C# Code\Assignment1_原\Assignment1_原\bin\Debug\net8.0\Assignment1_原.dll
+E:\Code\C# Code\Assignment1_原\Assignment1_原\bin\Debug\net8.0\Assignment1_原.pdb
+E:\Code\C# Code\Assignment1_原\Assignment1_原\obj\Debug\net8.0\Assignment1_原.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\Assignment1_原\Assignment1_原\obj\Debug\net8.0\Assignment1_原.AssemblyInfoInputs.cache
+E:\Code\C# Code\Assignment1_原\Assignment1_原\obj\Debug\net8.0\Assignment1_原.AssemblyInfo.cs
+E:\Code\C# Code\Assignment1_原\Assignment1_原\obj\Debug\net8.0\Assignment1_原.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\Assignment1_原\Assignment1_原\obj\Debug\net8.0\Assignment1_原.dll
+E:\Code\C# Code\Assignment1_原\Assignment1_原\obj\Debug\net8.0\refint\Assignment1_原.dll
+E:\Code\C# Code\Assignment1_原\Assignment1_原\obj\Debug\net8.0\Assignment1_原.pdb
+E:\Code\C# Code\Assignment1_原\Assignment1_原\obj\Debug\net8.0\Assignment1_原.genruntimeconfig.cache
+E:\Code\C# Code\Assignment1_原\Assignment1_原\obj\Debug\net8.0\ref\Assignment1_原.dll

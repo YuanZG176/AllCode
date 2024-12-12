@@ -1,0 +1,14 @@
+E:\Code\C# Code\Chapter08\8.11-ParameterDemo\bin\Debug\net8.0\8.11-ParameterDemo.exe
+E:\Code\C# Code\Chapter08\8.11-ParameterDemo\bin\Debug\net8.0\8.11-ParameterDemo.deps.json
+E:\Code\C# Code\Chapter08\8.11-ParameterDemo\bin\Debug\net8.0\8.11-ParameterDemo.runtimeconfig.json
+E:\Code\C# Code\Chapter08\8.11-ParameterDemo\bin\Debug\net8.0\8.11-ParameterDemo.dll
+E:\Code\C# Code\Chapter08\8.11-ParameterDemo\bin\Debug\net8.0\8.11-ParameterDemo.pdb
+E:\Code\C# Code\Chapter08\8.11-ParameterDemo\obj\Debug\net8.0\8.11-ParameterDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\Chapter08\8.11-ParameterDemo\obj\Debug\net8.0\8.11-ParameterDemo.AssemblyInfoInputs.cache
+E:\Code\C# Code\Chapter08\8.11-ParameterDemo\obj\Debug\net8.0\8.11-ParameterDemo.AssemblyInfo.cs
+E:\Code\C# Code\Chapter08\8.11-ParameterDemo\obj\Debug\net8.0\8.11-ParameterDemo.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\Chapter08\8.11-ParameterDemo\obj\Debug\net8.0\8.11-ParameterDemo.dll
+E:\Code\C# Code\Chapter08\8.11-ParameterDemo\obj\Debug\net8.0\refint\8.11-ParameterDemo.dll
+E:\Code\C# Code\Chapter08\8.11-ParameterDemo\obj\Debug\net8.0\8.11-ParameterDemo.pdb
+E:\Code\C# Code\Chapter08\8.11-ParameterDemo\obj\Debug\net8.0\8.11-ParameterDemo.genruntimeconfig.cache
+E:\Code\C# Code\Chapter08\8.11-ParameterDemo\obj\Debug\net8.0\ref\8.11-ParameterDemo.dll

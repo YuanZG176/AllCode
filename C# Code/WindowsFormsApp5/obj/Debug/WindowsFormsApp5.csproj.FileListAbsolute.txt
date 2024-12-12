@@ -1,0 +1,12 @@
+C:\COMP123\COMP123\source\week6\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\COMP123\COMP123\source\week6\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\COMP123\COMP123\source\week6\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\COMP123\COMP123\source\week6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.EditForm.resources
+C:\COMP123\COMP123\source\week6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\COMP123\COMP123\source\week6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Login.resources
+C:\COMP123\COMP123\source\week6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\COMP123\COMP123\source\week6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\COMP123\COMP123\source\week6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\COMP123\COMP123\source\week6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\COMP123\COMP123\source\week6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\COMP123\COMP123\source\week6\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache

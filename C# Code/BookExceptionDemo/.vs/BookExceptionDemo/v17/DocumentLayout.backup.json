@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\C# Code\\BookExceptionDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD5CCFB-0012-437A-A183-17803F96866C}|BookExceptionDemo\\BookExceptionDemo.csproj|e:\\code\\c# code\\bookexceptiondemo\\bookexceptiondemo\\bookexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD5CCFB-0012-437A-A183-17803F96866C}|BookExceptionDemo\\BookExceptionDemo.csproj|solutionrelative:bookexceptiondemo\\bookexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD5CCFB-0012-437A-A183-17803F96866C}|BookExceptionDemo\\BookExceptionDemo.csproj|e:\\code\\c# code\\bookexceptiondemo\\bookexceptiondemo\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD5CCFB-0012-437A-A183-17803F96866C}|BookExceptionDemo\\BookExceptionDemo.csproj|solutionrelative:bookexceptiondemo\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD5CCFB-0012-437A-A183-17803F96866C}|BookExceptionDemo\\BookExceptionDemo.csproj|e:\\code\\c# code\\bookexceptiondemo\\bookexceptiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD5CCFB-0012-437A-A183-17803F96866C}|BookExceptionDemo\\BookExceptionDemo.csproj|solutionrelative:bookexceptiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22BCCCF-95E6-4CE8-BCDB-49D2C10E7766}|BookExceptionDemo2\\BookExceptionDemo2.csproj|e:\\code\\c# code\\bookexceptiondemo\\bookexceptiondemo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22BCCCF-95E6-4CE8-BCDB-49D2C10E7766}|BookExceptionDemo2\\BookExceptionDemo2.csproj|solutionrelative:bookexceptiondemo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22BCCCF-95E6-4CE8-BCDB-49D2C10E7766}|BookExceptionDemo2\\BookExceptionDemo2.csproj|e:\\code\\c# code\\bookexceptiondemo\\bookexceptiondemo2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22BCCCF-95E6-4CE8-BCDB-49D2C10E7766}|BookExceptionDemo2\\BookExceptionDemo2.csproj|solutionrelative:bookexceptiondemo2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22BCCCF-95E6-4CE8-BCDB-49D2C10E7766}|BookExceptionDemo2\\BookExceptionDemo2.csproj|e:\\code\\c# code\\bookexceptiondemo\\bookexceptiondemo2\\bookexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22BCCCF-95E6-4CE8-BCDB-49D2C10E7766}|BookExceptionDemo2\\BookExceptionDemo2.csproj|solutionrelative:bookexceptiondemo2\\bookexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookException.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\BookExceptionDemo\\BookExceptionDemo2\\BookException.cs",
+              "RelativeDocumentMoniker": "BookExceptionDemo2\\BookException.cs",
+              "ToolTip": "E:\\Code\\C# Code\\BookExceptionDemo\\BookExceptionDemo2\\BookException.cs",
+              "RelativeToolTip": "BookExceptionDemo2\\BookException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:31:20.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\BookExceptionDemo\\BookExceptionDemo2\\Book.cs",
+              "RelativeDocumentMoniker": "BookExceptionDemo2\\Book.cs",
+              "ToolTip": "E:\\Code\\C# Code\\BookExceptionDemo\\BookExceptionDemo2\\Book.cs",
+              "RelativeToolTip": "BookExceptionDemo2\\Book.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:30:42.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\BookExceptionDemo\\BookExceptionDemo2\\Program.cs",
+              "RelativeDocumentMoniker": "BookExceptionDemo2\\Program.cs",
+              "ToolTip": "E:\\Code\\C# Code\\BookExceptionDemo\\BookExceptionDemo2\\Program.cs",
+              "RelativeToolTip": "BookExceptionDemo2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:06:16.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\BookExceptionDemo\\BookExceptionDemo\\Book.cs",
+              "RelativeDocumentMoniker": "BookExceptionDemo\\Book.cs",
+              "ToolTip": "E:\\Code\\C# Code\\BookExceptionDemo\\BookExceptionDemo\\Book.cs",
+              "RelativeToolTip": "BookExceptionDemo\\Book.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:55:19.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookException.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\BookExceptionDemo\\BookExceptionDemo\\BookException.cs",
+              "RelativeDocumentMoniker": "BookExceptionDemo\\BookException.cs",
+              "ToolTip": "E:\\Code\\C# Code\\BookExceptionDemo\\BookExceptionDemo\\BookException.cs",
+              "RelativeToolTip": "BookExceptionDemo\\BookException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:45:02.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "program.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\BookExceptionDemo\\BookExceptionDemo\\program.cs",
+              "RelativeDocumentMoniker": "BookExceptionDemo\\program.cs",
+              "ToolTip": "E:\\Code\\C# Code\\BookExceptionDemo\\BookExceptionDemo\\program.cs",
+              "RelativeToolTip": "BookExceptionDemo\\program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:44:43.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

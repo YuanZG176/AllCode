@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Chapter10\10.21-DievrseObjects\bin\Debug\net8.0\10.21-DievrseObjects.exe
+C:\Users\Administrator\source\repos\Chapter10\10.21-DievrseObjects\bin\Debug\net8.0\10.21-DievrseObjects.deps.json
+C:\Users\Administrator\source\repos\Chapter10\10.21-DievrseObjects\bin\Debug\net8.0\10.21-DievrseObjects.runtimeconfig.json
+C:\Users\Administrator\source\repos\Chapter10\10.21-DievrseObjects\bin\Debug\net8.0\10.21-DievrseObjects.dll
+C:\Users\Administrator\source\repos\Chapter10\10.21-DievrseObjects\bin\Debug\net8.0\10.21-DievrseObjects.pdb
+C:\Users\Administrator\source\repos\Chapter10\10.21-DievrseObjects\obj\Debug\net8.0\10.21-DievrseObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Chapter10\10.21-DievrseObjects\obj\Debug\net8.0\10.21-DievrseObjects.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Chapter10\10.21-DievrseObjects\obj\Debug\net8.0\10.21-DievrseObjects.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Chapter10\10.21-DievrseObjects\obj\Debug\net8.0\10.21-DievrseObjects.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Chapter10\10.21-DievrseObjects\obj\Debug\net8.0\10.21-DievrseObjects.dll
+C:\Users\Administrator\source\repos\Chapter10\10.21-DievrseObjects\obj\Debug\net8.0\refint\10.21-DievrseObjects.dll
+C:\Users\Administrator\source\repos\Chapter10\10.21-DievrseObjects\obj\Debug\net8.0\10.21-DievrseObjects.pdb
+C:\Users\Administrator\source\repos\Chapter10\10.21-DievrseObjects\obj\Debug\net8.0\10.21-DievrseObjects.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Chapter10\10.21-DievrseObjects\obj\Debug\net8.0\ref\10.21-DievrseObjects.dll

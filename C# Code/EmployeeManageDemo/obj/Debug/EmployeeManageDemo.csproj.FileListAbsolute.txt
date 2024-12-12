@@ -1,0 +1,32 @@
+C:\Users\Maggie\source\repos\Chapter12\EmployeeManageDemo\bin\Debug\EmployeeManageDemo.exe.config
+C:\Users\Maggie\source\repos\Chapter12\EmployeeManageDemo\bin\Debug\EmployeeManageDemo.exe
+C:\Users\Maggie\source\repos\Chapter12\EmployeeManageDemo\bin\Debug\EmployeeManageDemo.pdb
+C:\Users\Maggie\source\repos\Chapter12\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.csprojAssemblyReference.cache
+C:\Users\Maggie\source\repos\Chapter12\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.MainForm.resources
+C:\Users\Maggie\source\repos\Chapter12\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.Properties.Resources.resources
+C:\Users\Maggie\source\repos\Chapter12\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.UpdateForm.resources
+C:\Users\Maggie\source\repos\Chapter12\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.csproj.GenerateResource.cache
+C:\Users\Maggie\source\repos\Chapter12\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.csproj.CoreCompileInputs.cache
+C:\Users\Maggie\source\repos\Chapter12\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.exe
+C:\Users\Maggie\source\repos\Chapter12\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.pdb
+D:\Leo\bak20230320\E-disk\苏州百年学院\2023\教学\COMP123教学资料\备份资料\沈刚老师备份COMP123\COMP123-CODE\Chapter12\EmployeeManageDemo\bin\Debug\EmployeeManageDemo.exe.config
+D:\Leo\bak20230320\E-disk\苏州百年学院\2023\教学\COMP123教学资料\备份资料\沈刚老师备份COMP123\COMP123-CODE\Chapter12\EmployeeManageDemo\bin\Debug\EmployeeManageDemo.exe
+D:\Leo\bak20230320\E-disk\苏州百年学院\2023\教学\COMP123教学资料\备份资料\沈刚老师备份COMP123\COMP123-CODE\Chapter12\EmployeeManageDemo\bin\Debug\EmployeeManageDemo.pdb
+D:\Leo\bak20230320\E-disk\苏州百年学院\2023\教学\COMP123教学资料\备份资料\沈刚老师备份COMP123\COMP123-CODE\Chapter12\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.MainForm.resources
+D:\Leo\bak20230320\E-disk\苏州百年学院\2023\教学\COMP123教学资料\备份资料\沈刚老师备份COMP123\COMP123-CODE\Chapter12\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.Properties.Resources.resources
+D:\Leo\bak20230320\E-disk\苏州百年学院\2023\教学\COMP123教学资料\备份资料\沈刚老师备份COMP123\COMP123-CODE\Chapter12\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.UpdateForm.resources
+D:\Leo\bak20230320\E-disk\苏州百年学院\2023\教学\COMP123教学资料\备份资料\沈刚老师备份COMP123\COMP123-CODE\Chapter12\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.csproj.GenerateResource.cache
+D:\Leo\bak20230320\E-disk\苏州百年学院\2023\教学\COMP123教学资料\备份资料\沈刚老师备份COMP123\COMP123-CODE\Chapter12\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.csproj.CoreCompileInputs.cache
+D:\Leo\bak20230320\E-disk\苏州百年学院\2023\教学\COMP123教学资料\备份资料\沈刚老师备份COMP123\COMP123-CODE\Chapter12\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.exe
+D:\Leo\bak20230320\E-disk\苏州百年学院\2023\教学\COMP123教学资料\备份资料\沈刚老师备份COMP123\COMP123-CODE\Chapter12\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.pdb
+E:\Code\C# Code\EmployeeManageDemo\bin\Debug\EmployeeManageDemo.exe.config
+E:\Code\C# Code\EmployeeManageDemo\bin\Debug\EmployeeManageDemo.exe
+E:\Code\C# Code\EmployeeManageDemo\bin\Debug\EmployeeManageDemo.pdb
+E:\Code\C# Code\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.csproj.AssemblyReference.cache
+E:\Code\C# Code\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.MainForm.resources
+E:\Code\C# Code\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.Properties.Resources.resources
+E:\Code\C# Code\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.UpdateForm.resources
+E:\Code\C# Code\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.csproj.GenerateResource.cache
+E:\Code\C# Code\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.exe
+E:\Code\C# Code\EmployeeManageDemo\obj\Debug\EmployeeManageDemo.pdb

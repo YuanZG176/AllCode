@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Chapter09\9.37-AddBooks\bin\Debug\net8.0\9.37-AddBooks.exe
+C:\Users\Administrator\source\repos\Chapter09\9.37-AddBooks\bin\Debug\net8.0\9.37-AddBooks.deps.json
+C:\Users\Administrator\source\repos\Chapter09\9.37-AddBooks\bin\Debug\net8.0\9.37-AddBooks.runtimeconfig.json
+C:\Users\Administrator\source\repos\Chapter09\9.37-AddBooks\bin\Debug\net8.0\9.37-AddBooks.dll
+C:\Users\Administrator\source\repos\Chapter09\9.37-AddBooks\bin\Debug\net8.0\9.37-AddBooks.pdb
+C:\Users\Administrator\source\repos\Chapter09\9.37-AddBooks\obj\Debug\net8.0\9.37-AddBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Chapter09\9.37-AddBooks\obj\Debug\net8.0\9.37-AddBooks.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Chapter09\9.37-AddBooks\obj\Debug\net8.0\9.37-AddBooks.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Chapter09\9.37-AddBooks\obj\Debug\net8.0\9.37-AddBooks.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Chapter09\9.37-AddBooks\obj\Debug\net8.0\9.37-AddBooks.dll
+C:\Users\Administrator\source\repos\Chapter09\9.37-AddBooks\obj\Debug\net8.0\refint\9.37-AddBooks.dll
+C:\Users\Administrator\source\repos\Chapter09\9.37-AddBooks\obj\Debug\net8.0\9.37-AddBooks.pdb
+C:\Users\Administrator\source\repos\Chapter09\9.37-AddBooks\obj\Debug\net8.0\9.37-AddBooks.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Chapter09\9.37-AddBooks\obj\Debug\net8.0\ref\9.37-AddBooks.dll

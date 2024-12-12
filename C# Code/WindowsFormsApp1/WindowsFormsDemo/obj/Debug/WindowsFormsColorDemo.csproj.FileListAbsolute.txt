@@ -1,0 +1,10 @@
+E:\Code\C# Code\WindowsFormsApp1\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.exe.config
+E:\Code\C# Code\WindowsFormsApp1\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.exe
+E:\Code\C# Code\WindowsFormsApp1\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.pdb
+E:\Code\C# Code\WindowsFormsApp1\WindowsFormsDemo\obj\Debug\WindowsFormsColorDemo.csproj.AssemblyReference.cache
+E:\Code\C# Code\WindowsFormsApp1\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.Form1.resources
+E:\Code\C# Code\WindowsFormsApp1\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.Properties.Resources.resources
+E:\Code\C# Code\WindowsFormsApp1\WindowsFormsDemo\obj\Debug\WindowsFormsColorDemo.csproj.GenerateResource.cache
+E:\Code\C# Code\WindowsFormsApp1\WindowsFormsDemo\obj\Debug\WindowsFormsColorDemo.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\WindowsFormsApp1\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.exe
+E:\Code\C# Code\WindowsFormsApp1\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.pdb

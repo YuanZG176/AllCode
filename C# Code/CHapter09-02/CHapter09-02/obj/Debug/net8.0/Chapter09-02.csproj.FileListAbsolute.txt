@@ -1,0 +1,14 @@
+E:\Code\C# Code\CHapter09-02\CHapter09-02\bin\Debug\net8.0\Chapter09-02.exe
+E:\Code\C# Code\CHapter09-02\CHapter09-02\bin\Debug\net8.0\Chapter09-02.deps.json
+E:\Code\C# Code\CHapter09-02\CHapter09-02\bin\Debug\net8.0\Chapter09-02.runtimeconfig.json
+E:\Code\C# Code\CHapter09-02\CHapter09-02\bin\Debug\net8.0\Chapter09-02.dll
+E:\Code\C# Code\CHapter09-02\CHapter09-02\bin\Debug\net8.0\Chapter09-02.pdb
+E:\Code\C# Code\CHapter09-02\CHapter09-02\obj\Debug\net8.0\Chapter09-02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\CHapter09-02\CHapter09-02\obj\Debug\net8.0\Chapter09-02.AssemblyInfoInputs.cache
+E:\Code\C# Code\CHapter09-02\CHapter09-02\obj\Debug\net8.0\Chapter09-02.AssemblyInfo.cs
+E:\Code\C# Code\CHapter09-02\CHapter09-02\obj\Debug\net8.0\Chapter09-02.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\CHapter09-02\CHapter09-02\obj\Debug\net8.0\Chapter09-02.dll
+E:\Code\C# Code\CHapter09-02\CHapter09-02\obj\Debug\net8.0\refint\Chapter09-02.dll
+E:\Code\C# Code\CHapter09-02\CHapter09-02\obj\Debug\net8.0\Chapter09-02.pdb
+E:\Code\C# Code\CHapter09-02\CHapter09-02\obj\Debug\net8.0\Chapter09-02.genruntimeconfig.cache
+E:\Code\C# Code\CHapter09-02\CHapter09-02\obj\Debug\net8.0\ref\Chapter09-02.dll

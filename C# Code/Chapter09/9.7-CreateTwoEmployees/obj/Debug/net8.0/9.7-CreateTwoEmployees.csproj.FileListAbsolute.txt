@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Chapter09\9.7-CreateTwoEmployees\bin\Debug\net8.0\9.7-CreateTwoEmployees.exe
+C:\Users\Administrator\source\repos\Chapter09\9.7-CreateTwoEmployees\bin\Debug\net8.0\9.7-CreateTwoEmployees.deps.json
+C:\Users\Administrator\source\repos\Chapter09\9.7-CreateTwoEmployees\bin\Debug\net8.0\9.7-CreateTwoEmployees.runtimeconfig.json
+C:\Users\Administrator\source\repos\Chapter09\9.7-CreateTwoEmployees\bin\Debug\net8.0\9.7-CreateTwoEmployees.dll
+C:\Users\Administrator\source\repos\Chapter09\9.7-CreateTwoEmployees\bin\Debug\net8.0\9.7-CreateTwoEmployees.pdb
+C:\Users\Administrator\source\repos\Chapter09\9.7-CreateTwoEmployees\obj\Debug\net8.0\9.7-CreateTwoEmployees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Chapter09\9.7-CreateTwoEmployees\obj\Debug\net8.0\9.7-CreateTwoEmployees.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Chapter09\9.7-CreateTwoEmployees\obj\Debug\net8.0\9.7-CreateTwoEmployees.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Chapter09\9.7-CreateTwoEmployees\obj\Debug\net8.0\9.7-CreateTwoEmployees.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Chapter09\9.7-CreateTwoEmployees\obj\Debug\net8.0\9.7-CreateTwoEmployees.dll
+C:\Users\Administrator\source\repos\Chapter09\9.7-CreateTwoEmployees\obj\Debug\net8.0\refint\9.7-CreateTwoEmployees.dll
+C:\Users\Administrator\source\repos\Chapter09\9.7-CreateTwoEmployees\obj\Debug\net8.0\9.7-CreateTwoEmployees.pdb
+C:\Users\Administrator\source\repos\Chapter09\9.7-CreateTwoEmployees\obj\Debug\net8.0\9.7-CreateTwoEmployees.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Chapter09\9.7-CreateTwoEmployees\obj\Debug\net8.0\ref\9.7-CreateTwoEmployees.dll

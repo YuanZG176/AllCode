@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\C# Code\\Chapter10-02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1378F50-F7D6-4C40-8A0A-1D4D24CB396B}|10.42-DemoExtensionMethod\\10.42-DemoExtensionMethod.csproj|e:\\code\\c# code\\chapter10-02\\10.42-demoextensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1378F50-F7D6-4C40-8A0A-1D4D24CB396B}|10.42-DemoExtensionMethod\\10.42-DemoExtensionMethod.csproj|solutionrelative:10.42-demoextensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6CF98F-AC4F-4138-8C04-BEB011893E0F}|Chapter10-02\\Chapter10-02.csproj|e:\\code\\c# code\\chapter10-02\\chapter10-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6CF98F-AC4F-4138-8C04-BEB011893E0F}|Chapter10-02\\Chapter10-02.csproj|solutionrelative:chapter10-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EB7CCC-82A9-4367-937D-8AD8CA89C593}|10.38-DemoWorking\\10.38-DemoWorking.csproj|e:\\code\\c# code\\chapter10-02\\10.38-demoworking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EB7CCC-82A9-4367-937D-8AD8CA89C593}|10.38-DemoWorking\\10.38-DemoWorking.csproj|solutionrelative:10.38-demoworking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EB7CCC-82A9-4367-937D-8AD8CA89C593}|10.38-DemoWorking\\10.38-DemoWorking.csproj|e:\\code\\c# code\\chapter10-02\\10.38-demoworking\\iworkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EB7CCC-82A9-4367-937D-8AD8CA89C593}|10.38-DemoWorking\\10.38-DemoWorking.csproj|solutionrelative:10.38-demoworking\\iworkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F29A8A3-8DE3-453C-AD29-AEABF3EE8FED}|Demo2Animals2\\Demo2Animals2.csproj|e:\\code\\c# code\\chapter10-02\\demo2animals2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F29A8A3-8DE3-453C-AD29-AEABF3EE8FED}|Demo2Animals2\\Demo2Animals2.csproj|solutionrelative:demo2animals2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\Chapter10-02\\10.42-DemoExtensionMethod\\Program.cs",
+              "RelativeDocumentMoniker": "10.42-DemoExtensionMethod\\Program.cs",
+              "ToolTip": "E:\\Code\\C# Code\\Chapter10-02\\10.42-DemoExtensionMethod\\Program.cs",
+              "RelativeToolTip": "10.42-DemoExtensionMethod\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:07:22.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWorkable.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\Chapter10-02\\10.38-DemoWorking\\IWorkable.cs",
+              "RelativeDocumentMoniker": "10.38-DemoWorking\\IWorkable.cs",
+              "ToolTip": "E:\\Code\\C# Code\\Chapter10-02\\10.38-DemoWorking\\IWorkable.cs",
+              "RelativeToolTip": "10.38-DemoWorking\\IWorkable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:03:01.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\Chapter10-02\\10.38-DemoWorking\\Program.cs",
+              "RelativeDocumentMoniker": "10.38-DemoWorking\\Program.cs",
+              "ToolTip": "E:\\Code\\C# Code\\Chapter10-02\\10.38-DemoWorking\\Program.cs",
+              "RelativeToolTip": "10.38-DemoWorking\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:52:34.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\Chapter10-02\\Demo2Animals2\\Program.cs",
+              "RelativeDocumentMoniker": "Demo2Animals2\\Program.cs",
+              "ToolTip": "E:\\Code\\C# Code\\Chapter10-02\\Demo2Animals2\\Program.cs",
+              "RelativeToolTip": "Demo2Animals2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:11:28.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\Chapter10-02\\Chapter10-02\\Program.cs",
+              "RelativeDocumentMoniker": "Chapter10-02\\Program.cs",
+              "ToolTip": "E:\\Code\\C# Code\\Chapter10-02\\Chapter10-02\\Program.cs",
+              "RelativeToolTip": "Chapter10-02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T11:03:36.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

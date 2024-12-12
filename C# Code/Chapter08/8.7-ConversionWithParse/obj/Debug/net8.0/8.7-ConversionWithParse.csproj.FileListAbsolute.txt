@@ -1,0 +1,14 @@
+E:\Code\C# Code\Chapter08\8.7-ConversionWithParse\bin\Debug\net8.0\8.7-ConversionWithParse.exe
+E:\Code\C# Code\Chapter08\8.7-ConversionWithParse\bin\Debug\net8.0\8.7-ConversionWithParse.deps.json
+E:\Code\C# Code\Chapter08\8.7-ConversionWithParse\bin\Debug\net8.0\8.7-ConversionWithParse.runtimeconfig.json
+E:\Code\C# Code\Chapter08\8.7-ConversionWithParse\bin\Debug\net8.0\8.7-ConversionWithParse.dll
+E:\Code\C# Code\Chapter08\8.7-ConversionWithParse\bin\Debug\net8.0\8.7-ConversionWithParse.pdb
+E:\Code\C# Code\Chapter08\8.7-ConversionWithParse\obj\Debug\net8.0\8.7-ConversionWithParse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\Chapter08\8.7-ConversionWithParse\obj\Debug\net8.0\8.7-ConversionWithParse.AssemblyInfoInputs.cache
+E:\Code\C# Code\Chapter08\8.7-ConversionWithParse\obj\Debug\net8.0\8.7-ConversionWithParse.AssemblyInfo.cs
+E:\Code\C# Code\Chapter08\8.7-ConversionWithParse\obj\Debug\net8.0\8.7-ConversionWithParse.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\Chapter08\8.7-ConversionWithParse\obj\Debug\net8.0\8.7-ConversionWithParse.dll
+E:\Code\C# Code\Chapter08\8.7-ConversionWithParse\obj\Debug\net8.0\refint\8.7-ConversionWithParse.dll
+E:\Code\C# Code\Chapter08\8.7-ConversionWithParse\obj\Debug\net8.0\8.7-ConversionWithParse.pdb
+E:\Code\C# Code\Chapter08\8.7-ConversionWithParse\obj\Debug\net8.0\8.7-ConversionWithParse.genruntimeconfig.cache
+E:\Code\C# Code\Chapter08\8.7-ConversionWithParse\obj\Debug\net8.0\ref\8.7-ConversionWithParse.dll

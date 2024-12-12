@@ -1,0 +1,10 @@
+E:\Code\C# Code\WindowsFormsApp1\FiveRadioButtonDemo\bin\Debug\FiveRadioButtonDemo.exe.config
+E:\Code\C# Code\WindowsFormsApp1\FiveRadioButtonDemo\bin\Debug\FiveRadioButtonDemo.exe
+E:\Code\C# Code\WindowsFormsApp1\FiveRadioButtonDemo\bin\Debug\FiveRadioButtonDemo.pdb
+E:\Code\C# Code\WindowsFormsApp1\FiveRadioButtonDemo\obj\Debug\FiveRadioButtonDemo.csproj.AssemblyReference.cache
+E:\Code\C# Code\WindowsFormsApp1\FiveRadioButtonDemo\obj\Debug\FiveRadioButtonDemo.Form1.resources
+E:\Code\C# Code\WindowsFormsApp1\FiveRadioButtonDemo\obj\Debug\FiveRadioButtonDemo.Properties.Resources.resources
+E:\Code\C# Code\WindowsFormsApp1\FiveRadioButtonDemo\obj\Debug\FiveRadioButtonDemo.csproj.GenerateResource.cache
+E:\Code\C# Code\WindowsFormsApp1\FiveRadioButtonDemo\obj\Debug\FiveRadioButtonDemo.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\WindowsFormsApp1\FiveRadioButtonDemo\obj\Debug\FiveRadioButtonDemo.exe
+E:\Code\C# Code\WindowsFormsApp1\FiveRadioButtonDemo\obj\Debug\FiveRadioButtonDemo.pdb

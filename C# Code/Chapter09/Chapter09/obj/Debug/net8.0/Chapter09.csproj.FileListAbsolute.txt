@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Chapter09\Chapter09\obj\Debug\net8.0\Chapter09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Chapter09\Chapter09\obj\Debug\net8.0\Chapter09.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Chapter09\Chapter09\obj\Debug\net8.0\Chapter09.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Chapter09\Chapter09\obj\Debug\net8.0\Chapter09.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Chapter09\Chapter09\bin\Debug\net8.0\Chapter09.exe
+C:\Users\Administrator\source\repos\Chapter09\Chapter09\bin\Debug\net8.0\Chapter09.deps.json
+C:\Users\Administrator\source\repos\Chapter09\Chapter09\bin\Debug\net8.0\Chapter09.runtimeconfig.json
+C:\Users\Administrator\source\repos\Chapter09\Chapter09\bin\Debug\net8.0\Chapter09.dll
+C:\Users\Administrator\source\repos\Chapter09\Chapter09\bin\Debug\net8.0\Chapter09.pdb
+C:\Users\Administrator\source\repos\Chapter09\Chapter09\obj\Debug\net8.0\Chapter09.dll
+C:\Users\Administrator\source\repos\Chapter09\Chapter09\obj\Debug\net8.0\refint\Chapter09.dll
+C:\Users\Administrator\source\repos\Chapter09\Chapter09\obj\Debug\net8.0\Chapter09.pdb
+C:\Users\Administrator\source\repos\Chapter09\Chapter09\obj\Debug\net8.0\Chapter09.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Chapter09\Chapter09\obj\Debug\net8.0\ref\Chapter09.dll

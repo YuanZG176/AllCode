@@ -1,0 +1,14 @@
+E:\Code\C# Code\ChaoXingExercise\ChaoXingExercise\bin\Debug\net8.0\ChaoXingExercise.exe
+E:\Code\C# Code\ChaoXingExercise\ChaoXingExercise\bin\Debug\net8.0\ChaoXingExercise.deps.json
+E:\Code\C# Code\ChaoXingExercise\ChaoXingExercise\bin\Debug\net8.0\ChaoXingExercise.runtimeconfig.json
+E:\Code\C# Code\ChaoXingExercise\ChaoXingExercise\bin\Debug\net8.0\ChaoXingExercise.dll
+E:\Code\C# Code\ChaoXingExercise\ChaoXingExercise\bin\Debug\net8.0\ChaoXingExercise.pdb
+E:\Code\C# Code\ChaoXingExercise\ChaoXingExercise\obj\Debug\net8.0\ChaoXingExercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\ChaoXingExercise\ChaoXingExercise\obj\Debug\net8.0\ChaoXingExercise.AssemblyInfoInputs.cache
+E:\Code\C# Code\ChaoXingExercise\ChaoXingExercise\obj\Debug\net8.0\ChaoXingExercise.AssemblyInfo.cs
+E:\Code\C# Code\ChaoXingExercise\ChaoXingExercise\obj\Debug\net8.0\ChaoXingExercise.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\ChaoXingExercise\ChaoXingExercise\obj\Debug\net8.0\ChaoXingExercise.dll
+E:\Code\C# Code\ChaoXingExercise\ChaoXingExercise\obj\Debug\net8.0\refint\ChaoXingExercise.dll
+E:\Code\C# Code\ChaoXingExercise\ChaoXingExercise\obj\Debug\net8.0\ChaoXingExercise.pdb
+E:\Code\C# Code\ChaoXingExercise\ChaoXingExercise\obj\Debug\net8.0\ChaoXingExercise.genruntimeconfig.cache
+E:\Code\C# Code\ChaoXingExercise\ChaoXingExercise\obj\Debug\net8.0\ref\ChaoXingExercise.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Demo2Animals2/1.0.0": {
+        "runtime": {
+          "Demo2Animals2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo2Animals2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

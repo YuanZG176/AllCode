@@ -1,0 +1,9 @@
+COMP391,Introduction to Game and Simulation,This course introduces the elements of design and developmen,2,COMP100 COMP120
+COMP225,Software Engineering Methodologies 1,Students will gain an understanding of the information syste,2,COMP100 COMP123
+COMP122,Introduction to Database Concepts,This course introduces students to relational database conce,1,COMP100
+COMP391,Introduction to Game and Simulation,This course introduces the elements of design and developmen,2,COMP100 COMP120
+COMP225,Software Engineering Methodologies 1,Students will gain an understanding of the information syste,2,COMP100 COMP123
+COMP391,Introduction to Game and Simulation,This course introduces the elements of design and developmen,2,COMP100 COMP120
+COMP225,Software Engineering Methodologies 1,Students will gain an understanding of the information syste,2,COMP100 COMP123
+COMP122,Introduction to Database Concepts,This course introduces students to relational database conce,1,COMP100
+comp 120,理论学习,基础学习,1,None

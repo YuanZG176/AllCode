@@ -1,0 +1,14 @@
+E:\Code\C# Code\Chapter14\ReadSequentialFile\bin\Debug\net8.0\ReadSequentialFile.exe
+E:\Code\C# Code\Chapter14\ReadSequentialFile\bin\Debug\net8.0\ReadSequentialFile.deps.json
+E:\Code\C# Code\Chapter14\ReadSequentialFile\bin\Debug\net8.0\ReadSequentialFile.runtimeconfig.json
+E:\Code\C# Code\Chapter14\ReadSequentialFile\bin\Debug\net8.0\ReadSequentialFile.dll
+E:\Code\C# Code\Chapter14\ReadSequentialFile\bin\Debug\net8.0\ReadSequentialFile.pdb
+E:\Code\C# Code\Chapter14\ReadSequentialFile\obj\Debug\net8.0\ReadSequentialFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\Chapter14\ReadSequentialFile\obj\Debug\net8.0\ReadSequentialFile.AssemblyInfoInputs.cache
+E:\Code\C# Code\Chapter14\ReadSequentialFile\obj\Debug\net8.0\ReadSequentialFile.AssemblyInfo.cs
+E:\Code\C# Code\Chapter14\ReadSequentialFile\obj\Debug\net8.0\ReadSequentialFile.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\Chapter14\ReadSequentialFile\obj\Debug\net8.0\ReadSequentialFile.dll
+E:\Code\C# Code\Chapter14\ReadSequentialFile\obj\Debug\net8.0\refint\ReadSequentialFile.dll
+E:\Code\C# Code\Chapter14\ReadSequentialFile\obj\Debug\net8.0\ReadSequentialFile.pdb
+E:\Code\C# Code\Chapter14\ReadSequentialFile\obj\Debug\net8.0\ReadSequentialFile.genruntimeconfig.cache
+E:\Code\C# Code\Chapter14\ReadSequentialFile\obj\Debug\net8.0\ref\ReadSequentialFile.dll

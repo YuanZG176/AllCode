@@ -1,0 +1,11 @@
+E:\Code\C# Code\Assignment4_Yuan\Assignment4_Yuan\bin\Debug\Assignment4_Yuan.exe.config
+E:\Code\C# Code\Assignment4_Yuan\Assignment4_Yuan\bin\Debug\Assignment4_Yuan.exe
+E:\Code\C# Code\Assignment4_Yuan\Assignment4_Yuan\bin\Debug\Assignment4_Yuan.pdb
+E:\Code\C# Code\Assignment4_Yuan\Assignment4_Yuan\obj\Debug\Assignment4_Yuan.csproj.AssemblyReference.cache
+E:\Code\C# Code\Assignment4_Yuan\Assignment4_Yuan\obj\Debug\Assignment4_Yuan.Form1.resources
+E:\Code\C# Code\Assignment4_Yuan\Assignment4_Yuan\obj\Debug\Assignment4_Yuan.Properties.Resources.resources
+E:\Code\C# Code\Assignment4_Yuan\Assignment4_Yuan\obj\Debug\Assignment4_Yuan.csproj.GenerateResource.cache
+E:\Code\C# Code\Assignment4_Yuan\Assignment4_Yuan\obj\Debug\Assignment4_Yuan.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\Assignment4_Yuan\Assignment4_Yuan\obj\Debug\Assignment4_Yuan.exe
+E:\Code\C# Code\Assignment4_Yuan\Assignment4_Yuan\obj\Debug\Assignment4_Yuan.pdb
+E:\Code\C# Code\Assignment4_Yuan\Assignment4_Yuan\obj\Debug\Assignment4_Yuan.UpdateForm.resources

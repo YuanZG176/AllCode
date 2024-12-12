@@ -1,0 +1,14 @@
+E:\Code\C# Code\Chapter14\FileStatistics\bin\Debug\net8.0\FileStatistics.exe
+E:\Code\C# Code\Chapter14\FileStatistics\bin\Debug\net8.0\FileStatistics.deps.json
+E:\Code\C# Code\Chapter14\FileStatistics\bin\Debug\net8.0\FileStatistics.runtimeconfig.json
+E:\Code\C# Code\Chapter14\FileStatistics\bin\Debug\net8.0\FileStatistics.dll
+E:\Code\C# Code\Chapter14\FileStatistics\bin\Debug\net8.0\FileStatistics.pdb
+E:\Code\C# Code\Chapter14\FileStatistics\obj\Debug\net8.0\FileStatistics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\Chapter14\FileStatistics\obj\Debug\net8.0\FileStatistics.AssemblyInfoInputs.cache
+E:\Code\C# Code\Chapter14\FileStatistics\obj\Debug\net8.0\FileStatistics.AssemblyInfo.cs
+E:\Code\C# Code\Chapter14\FileStatistics\obj\Debug\net8.0\FileStatistics.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\Chapter14\FileStatistics\obj\Debug\net8.0\FileStatistics.dll
+E:\Code\C# Code\Chapter14\FileStatistics\obj\Debug\net8.0\refint\FileStatistics.dll
+E:\Code\C# Code\Chapter14\FileStatistics\obj\Debug\net8.0\FileStatistics.pdb
+E:\Code\C# Code\Chapter14\FileStatistics\obj\Debug\net8.0\FileStatistics.genruntimeconfig.cache
+E:\Code\C# Code\Chapter14\FileStatistics\obj\Debug\net8.0\ref\FileStatistics.dll

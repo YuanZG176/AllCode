@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Chapter10\10.20-DemoSalesperson3\bin\Debug\net8.0\10.20-DemoSalesperson3.exe
+C:\Users\Administrator\source\repos\Chapter10\10.20-DemoSalesperson3\bin\Debug\net8.0\10.20-DemoSalesperson3.deps.json
+C:\Users\Administrator\source\repos\Chapter10\10.20-DemoSalesperson3\bin\Debug\net8.0\10.20-DemoSalesperson3.runtimeconfig.json
+C:\Users\Administrator\source\repos\Chapter10\10.20-DemoSalesperson3\bin\Debug\net8.0\10.20-DemoSalesperson3.dll
+C:\Users\Administrator\source\repos\Chapter10\10.20-DemoSalesperson3\bin\Debug\net8.0\10.20-DemoSalesperson3.pdb
+C:\Users\Administrator\source\repos\Chapter10\10.20-DemoSalesperson3\obj\Debug\net8.0\10.20-DemoSalesperson3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Chapter10\10.20-DemoSalesperson3\obj\Debug\net8.0\10.20-DemoSalesperson3.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Chapter10\10.20-DemoSalesperson3\obj\Debug\net8.0\10.20-DemoSalesperson3.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Chapter10\10.20-DemoSalesperson3\obj\Debug\net8.0\10.20-DemoSalesperson3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Chapter10\10.20-DemoSalesperson3\obj\Debug\net8.0\10.20-DemoSalesperson3.dll
+C:\Users\Administrator\source\repos\Chapter10\10.20-DemoSalesperson3\obj\Debug\net8.0\refint\10.20-DemoSalesperson3.dll
+C:\Users\Administrator\source\repos\Chapter10\10.20-DemoSalesperson3\obj\Debug\net8.0\10.20-DemoSalesperson3.pdb
+C:\Users\Administrator\source\repos\Chapter10\10.20-DemoSalesperson3\obj\Debug\net8.0\10.20-DemoSalesperson3.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Chapter10\10.20-DemoSalesperson3\obj\Debug\net8.0\ref\10.20-DemoSalesperson3.dll

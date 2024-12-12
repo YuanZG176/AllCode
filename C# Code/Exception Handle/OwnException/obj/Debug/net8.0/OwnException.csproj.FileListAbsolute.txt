@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Exception Handle\OwnException\bin\Debug\net8.0\OwnException.exe
+C:\Users\Administrator\source\repos\Exception Handle\OwnException\bin\Debug\net8.0\OwnException.deps.json
+C:\Users\Administrator\source\repos\Exception Handle\OwnException\bin\Debug\net8.0\OwnException.runtimeconfig.json
+C:\Users\Administrator\source\repos\Exception Handle\OwnException\bin\Debug\net8.0\OwnException.dll
+C:\Users\Administrator\source\repos\Exception Handle\OwnException\bin\Debug\net8.0\OwnException.pdb
+C:\Users\Administrator\source\repos\Exception Handle\OwnException\obj\Debug\net8.0\OwnException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Exception Handle\OwnException\obj\Debug\net8.0\OwnException.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Exception Handle\OwnException\obj\Debug\net8.0\OwnException.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Exception Handle\OwnException\obj\Debug\net8.0\OwnException.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Exception Handle\OwnException\obj\Debug\net8.0\OwnException.dll
+C:\Users\Administrator\source\repos\Exception Handle\OwnException\obj\Debug\net8.0\refint\OwnException.dll
+C:\Users\Administrator\source\repos\Exception Handle\OwnException\obj\Debug\net8.0\OwnException.pdb
+C:\Users\Administrator\source\repos\Exception Handle\OwnException\obj\Debug\net8.0\OwnException.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Exception Handle\OwnException\obj\Debug\net8.0\ref\OwnException.dll

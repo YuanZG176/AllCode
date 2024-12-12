@@ -1,0 +1,14 @@
+E:\Code\C# Code\Chapter10-02\Demo2Animals2\bin\Debug\net8.0\Demo2Animals2.exe
+E:\Code\C# Code\Chapter10-02\Demo2Animals2\bin\Debug\net8.0\Demo2Animals2.deps.json
+E:\Code\C# Code\Chapter10-02\Demo2Animals2\bin\Debug\net8.0\Demo2Animals2.runtimeconfig.json
+E:\Code\C# Code\Chapter10-02\Demo2Animals2\bin\Debug\net8.0\Demo2Animals2.dll
+E:\Code\C# Code\Chapter10-02\Demo2Animals2\bin\Debug\net8.0\Demo2Animals2.pdb
+E:\Code\C# Code\Chapter10-02\Demo2Animals2\obj\Debug\net8.0\Demo2Animals2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\Chapter10-02\Demo2Animals2\obj\Debug\net8.0\Demo2Animals2.AssemblyInfoInputs.cache
+E:\Code\C# Code\Chapter10-02\Demo2Animals2\obj\Debug\net8.0\Demo2Animals2.AssemblyInfo.cs
+E:\Code\C# Code\Chapter10-02\Demo2Animals2\obj\Debug\net8.0\Demo2Animals2.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\Chapter10-02\Demo2Animals2\obj\Debug\net8.0\Demo2Animals2.dll
+E:\Code\C# Code\Chapter10-02\Demo2Animals2\obj\Debug\net8.0\refint\Demo2Animals2.dll
+E:\Code\C# Code\Chapter10-02\Demo2Animals2\obj\Debug\net8.0\Demo2Animals2.pdb
+E:\Code\C# Code\Chapter10-02\Demo2Animals2\obj\Debug\net8.0\Demo2Animals2.genruntimeconfig.cache
+E:\Code\C# Code\Chapter10-02\Demo2Animals2\obj\Debug\net8.0\ref\Demo2Animals2.dll

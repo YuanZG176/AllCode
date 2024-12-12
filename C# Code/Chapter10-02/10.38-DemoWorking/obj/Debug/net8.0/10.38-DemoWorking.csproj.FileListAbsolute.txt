@@ -1,0 +1,14 @@
+E:\Code\C# Code\Chapter10-02\10.38-DemoWorking\bin\Debug\net8.0\10.38-DemoWorking.exe
+E:\Code\C# Code\Chapter10-02\10.38-DemoWorking\bin\Debug\net8.0\10.38-DemoWorking.deps.json
+E:\Code\C# Code\Chapter10-02\10.38-DemoWorking\bin\Debug\net8.0\10.38-DemoWorking.runtimeconfig.json
+E:\Code\C# Code\Chapter10-02\10.38-DemoWorking\bin\Debug\net8.0\10.38-DemoWorking.dll
+E:\Code\C# Code\Chapter10-02\10.38-DemoWorking\bin\Debug\net8.0\10.38-DemoWorking.pdb
+E:\Code\C# Code\Chapter10-02\10.38-DemoWorking\obj\Debug\net8.0\10.38-DemoWorking.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\Chapter10-02\10.38-DemoWorking\obj\Debug\net8.0\10.38-DemoWorking.AssemblyInfoInputs.cache
+E:\Code\C# Code\Chapter10-02\10.38-DemoWorking\obj\Debug\net8.0\10.38-DemoWorking.AssemblyInfo.cs
+E:\Code\C# Code\Chapter10-02\10.38-DemoWorking\obj\Debug\net8.0\10.38-DemoWorking.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\Chapter10-02\10.38-DemoWorking\obj\Debug\net8.0\10.38-DemoWorking.dll
+E:\Code\C# Code\Chapter10-02\10.38-DemoWorking\obj\Debug\net8.0\refint\10.38-DemoWorking.dll
+E:\Code\C# Code\Chapter10-02\10.38-DemoWorking\obj\Debug\net8.0\10.38-DemoWorking.pdb
+E:\Code\C# Code\Chapter10-02\10.38-DemoWorking\obj\Debug\net8.0\10.38-DemoWorking.genruntimeconfig.cache
+E:\Code\C# Code\Chapter10-02\10.38-DemoWorking\obj\Debug\net8.0\ref\10.38-DemoWorking.dll

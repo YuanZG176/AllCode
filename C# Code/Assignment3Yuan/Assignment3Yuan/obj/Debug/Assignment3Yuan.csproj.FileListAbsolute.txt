@@ -1,0 +1,10 @@
+E:\Code\C# Code\Assignment3Yuan\Assignment3Yuan\bin\Debug\Assignment3Yuan.exe.config
+E:\Code\C# Code\Assignment3Yuan\Assignment3Yuan\bin\Debug\Assignment3Yuan.exe
+E:\Code\C# Code\Assignment3Yuan\Assignment3Yuan\bin\Debug\Assignment3Yuan.pdb
+E:\Code\C# Code\Assignment3Yuan\Assignment3Yuan\obj\Debug\Assignment3Yuan.csproj.AssemblyReference.cache
+E:\Code\C# Code\Assignment3Yuan\Assignment3Yuan\obj\Debug\Assignment3Yuan.Form1.resources
+E:\Code\C# Code\Assignment3Yuan\Assignment3Yuan\obj\Debug\Assignment3Yuan.Properties.Resources.resources
+E:\Code\C# Code\Assignment3Yuan\Assignment3Yuan\obj\Debug\Assignment3Yuan.csproj.GenerateResource.cache
+E:\Code\C# Code\Assignment3Yuan\Assignment3Yuan\obj\Debug\Assignment3Yuan.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\Assignment3Yuan\Assignment3Yuan\obj\Debug\Assignment3Yuan.exe
+E:\Code\C# Code\Assignment3Yuan\Assignment3Yuan\obj\Debug\Assignment3Yuan.pdb

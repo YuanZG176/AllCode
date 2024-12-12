@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\C# Code\\Quiz4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{136746B9-2F56-4582-8CD0-C49200C70615}|Quiz4\\Quiz4.csproj|e:\\code\\c# code\\quiz4\\quiz4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{136746B9-2F56-4582-8CD0-C49200C70615}|Quiz4\\Quiz4.csproj|solutionrelative:quiz4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{136746B9-2F56-4582-8CD0-C49200C70615}|Quiz4\\Quiz4.csproj|E:\\Code\\C# Code\\Quiz4\\quiz4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{136746B9-2F56-4582-8CD0-C49200C70615}|Quiz4\\Quiz4.csproj|solutionrelative:quiz4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Quiz4||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quiz4",
+              "DocumentMoniker": "E:\\Code\\C# Code\\Quiz4\\Quiz4\\Quiz4.csproj",
+              "RelativeDocumentMoniker": "Quiz4\\Quiz4.csproj",
+              "ToolTip": "E:\\Code\\C# Code\\Quiz4\\Quiz4\\Quiz4.csproj",
+              "RelativeToolTip": "Quiz4\\Quiz4.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-24T03:49:43.377Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\Code\\C# Code\\Quiz4\\Quiz4\\Form1.cs",
+              "RelativeDocumentMoniker": "Quiz4\\Form1.cs",
+              "ToolTip": "E:\\Code\\C# Code\\Quiz4\\Quiz4\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Quiz4\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:46:40.06Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\Quiz4\\Quiz4\\Form1.cs",
+              "RelativeDocumentMoniker": "Quiz4\\Form1.cs",
+              "ToolTip": "E:\\Code\\C# Code\\Quiz4\\Quiz4\\Form1.cs",
+              "RelativeToolTip": "Quiz4\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowDcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:46:41.747Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

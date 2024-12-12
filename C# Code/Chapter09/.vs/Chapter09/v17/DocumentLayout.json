@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Chapter09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA55DFB-5FA1-4F30-9ACF-5C70411E7600}|9.37-AddBooks\\9.37-AddBooks.csproj|c:\\users\\administrator\\source\\repos\\chapter09\\9.37-addbooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA55DFB-5FA1-4F30-9ACF-5C70411E7600}|9.37-AddBooks\\9.37-AddBooks.csproj|solutionrelative:9.37-addbooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA55DFB-5FA1-4F30-9ACF-5C70411E7600}|9.37-AddBooks\\9.37-AddBooks.csproj|c:\\users\\administrator\\source\\repos\\chapter09\\9.37-addbooks\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA55DFB-5FA1-4F30-9ACF-5C70411E7600}|9.37-AddBooks\\9.37-AddBooks.csproj|solutionrelative:9.37-addbooks\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F6C814-4BFD-4734-B9D1-42D32A121F31}|9.34-DemoObjectInitaializer2\\9.34-DemoObjectInitaializer2.csproj|c:\\users\\administrator\\source\\repos\\chapter09\\9.34-demoobjectinitaializer2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F6C814-4BFD-4734-B9D1-42D32A121F31}|9.34-DemoObjectInitaializer2\\9.34-DemoObjectInitaializer2.csproj|solutionrelative:9.34-demoobjectinitaializer2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B57896-A890-49AE-A5E1-24BCCCFB3F80}|9.30-DemoObjectInitializer\\9.30-DemoObjectInitializer.csproj|c:\\users\\administrator\\source\\repos\\chapter09\\9.30-demoobjectinitializer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B57896-A890-49AE-A5E1-24BCCCFB3F80}|9.30-DemoObjectInitializer\\9.30-DemoObjectInitializer.csproj|solutionrelative:9.30-demoobjectinitializer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E676FA88-4640-4BCF-8ED6-6E0C52B5A126}|9.28-Readonly\\9.28-Readonly.csproj|c:\\users\\administrator\\source\\repos\\chapter09\\9.28-readonly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E676FA88-4640-4BCF-8ED6-6E0C52B5A126}|9.28-Readonly\\9.28-Readonly.csproj|solutionrelative:9.28-readonly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DA1BD1-8F31-4F99-BB92-E008BA3ACFE4}|9.25-CreateSomeEmployees\\9.25-CreateSomeEmployees.csproj|c:\\users\\administrator\\source\\repos\\chapter09\\9.25-createsomeemployees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DA1BD1-8F31-4F99-BB92-E008BA3ACFE4}|9.25-CreateSomeEmployees\\9.25-CreateSomeEmployees.csproj|solutionrelative:9.25-createsomeemployees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DA1BD1-8F31-4F99-BB92-E008BA3ACFE4}|9.25-CreateSomeEmployees\\9.25-CreateSomeEmployees.csproj|c:\\users\\administrator\\source\\repos\\chapter09\\9.25-createsomeemployees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DA1BD1-8F31-4F99-BB92-E008BA3ACFE4}|9.25-CreateSomeEmployees\\9.25-CreateSomeEmployees.csproj|solutionrelative:9.25-createsomeemployees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D999C5-754D-4B93-950A-F4453CDEE1FC}|9.20-CreateTwoBooks\\9.20-CreateTwoBooks.csproj|c:\\users\\administrator\\source\\repos\\chapter09\\9.20-createtwobooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D999C5-754D-4B93-950A-F4453CDEE1FC}|9.20-CreateTwoBooks\\9.20-CreateTwoBooks.csproj|solutionrelative:9.20-createtwobooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Chapter09\\9.20-CreateTwoBooks\\Program.cs",
+              "RelativeDocumentMoniker": "9.20-CreateTwoBooks\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Chapter09\\9.20-CreateTwoBooks\\Program.cs",
+              "RelativeToolTip": "9.20-CreateTwoBooks\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:23:17.584Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Chapter09\\9.37-AddBooks\\Book.cs",
+              "RelativeDocumentMoniker": "9.37-AddBooks\\Book.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Chapter09\\9.37-AddBooks\\Book.cs",
+              "RelativeToolTip": "9.37-AddBooks\\Book.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:54:02.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Chapter09\\9.37-AddBooks\\Program.cs",
+              "RelativeDocumentMoniker": "9.37-AddBooks\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Chapter09\\9.37-AddBooks\\Program.cs",
+              "RelativeToolTip": "9.37-AddBooks\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:52:47.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Chapter09\\9.34-DemoObjectInitaializer2\\Program.cs",
+              "RelativeDocumentMoniker": "9.34-DemoObjectInitaializer2\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Chapter09\\9.34-DemoObjectInitaializer2\\Program.cs",
+              "RelativeToolTip": "9.34-DemoObjectInitaializer2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:55:52.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Chapter09\\9.30-DemoObjectInitializer\\Program.cs",
+              "RelativeDocumentMoniker": "9.30-DemoObjectInitializer\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Chapter09\\9.30-DemoObjectInitializer\\Program.cs",
+              "RelativeToolTip": "9.30-DemoObjectInitializer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:41:07.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Chapter09\\9.28-Readonly\\Program.cs",
+              "RelativeDocumentMoniker": "9.28-Readonly\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Chapter09\\9.28-Readonly\\Program.cs",
+              "RelativeToolTip": "9.28-Readonly\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:34:22.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Chapter09\\9.25-CreateSomeEmployees\\Employee.cs",
+              "RelativeDocumentMoniker": "9.25-CreateSomeEmployees\\Employee.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Chapter09\\9.25-CreateSomeEmployees\\Employee.cs",
+              "RelativeToolTip": "9.25-CreateSomeEmployees\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:08:31.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Chapter09\\9.25-CreateSomeEmployees\\Program.cs",
+              "RelativeDocumentMoniker": "9.25-CreateSomeEmployees\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Chapter09\\9.25-CreateSomeEmployees\\Program.cs",
+              "RelativeToolTip": "9.25-CreateSomeEmployees\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:06:28.247Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

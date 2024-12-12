@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Exercise01\InputMethodDemo\bin\Debug\net8.0\InputMethodDemo.exe
+C:\Users\Administrator\source\repos\Exercise01\InputMethodDemo\bin\Debug\net8.0\InputMethodDemo.deps.json
+C:\Users\Administrator\source\repos\Exercise01\InputMethodDemo\bin\Debug\net8.0\InputMethodDemo.runtimeconfig.json
+C:\Users\Administrator\source\repos\Exercise01\InputMethodDemo\bin\Debug\net8.0\InputMethodDemo.dll
+C:\Users\Administrator\source\repos\Exercise01\InputMethodDemo\bin\Debug\net8.0\InputMethodDemo.pdb
+C:\Users\Administrator\source\repos\Exercise01\InputMethodDemo\obj\Debug\net8.0\InputMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Exercise01\InputMethodDemo\obj\Debug\net8.0\InputMethodDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Exercise01\InputMethodDemo\obj\Debug\net8.0\InputMethodDemo.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Exercise01\InputMethodDemo\obj\Debug\net8.0\InputMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Exercise01\InputMethodDemo\obj\Debug\net8.0\InputMethodDemo.dll
+C:\Users\Administrator\source\repos\Exercise01\InputMethodDemo\obj\Debug\net8.0\refint\InputMethodDemo.dll
+C:\Users\Administrator\source\repos\Exercise01\InputMethodDemo\obj\Debug\net8.0\InputMethodDemo.pdb
+C:\Users\Administrator\source\repos\Exercise01\InputMethodDemo\obj\Debug\net8.0\InputMethodDemo.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Exercise01\InputMethodDemo\obj\Debug\net8.0\ref\InputMethodDemo.dll

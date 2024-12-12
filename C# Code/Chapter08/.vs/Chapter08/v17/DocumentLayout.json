@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\C# Code\\Chapter08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59209096-D63B-4027-B234-97F92BA77C50}|8.23-OptionParameterDemo\\8.23-OptionParameterDemo.csproj|e:\\code\\c# code\\chapter08\\8.23-optionparameterdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59209096-D63B-4027-B234-97F92BA77C50}|8.23-OptionParameterDemo\\8.23-OptionParameterDemo.csproj|solutionrelative:8.23-optionparameterdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD1A6C1-7A62-452F-8981-D4B2DAA03E74}|8.15-BorderDemo1\\8.15-BorderDemo1.csproj|e:\\code\\c# code\\chapter08\\8.15-borderdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD1A6C1-7A62-452F-8981-D4B2DAA03E74}|8.15-BorderDemo1\\8.15-BorderDemo1.csproj|solutionrelative:8.15-borderdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D60A0626-05CD-4CB5-87B7-E574609E6D3B}|8.11-ParameterDemo\\8.11-ParameterDemo.csproj|e:\\code\\c# code\\chapter08\\8.11-parameterdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D60A0626-05CD-4CB5-87B7-E574609E6D3B}|8.11-ParameterDemo\\8.11-ParameterDemo.csproj|solutionrelative:8.11-parameterdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AA8339-F71F-4792-B2F0-C6530ADFC49D}|8.10-ConversionWithTryParse\\8.10-ConversionWithTryParse.csproj|e:\\code\\c# code\\chapter08\\8.10-conversionwithtryparse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AA8339-F71F-4792-B2F0-C6530ADFC49D}|8.10-ConversionWithTryParse\\8.10-ConversionWithTryParse.csproj|solutionrelative:8.10-conversionwithtryparse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62AACF30-5142-4242-8D1F-E915F514CB99}|8.7-ConversionWithParse\\8.7-ConversionWithParse.csproj|e:\\code\\c# code\\chapter08\\8.7-conversionwithparse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62AACF30-5142-4242-8D1F-E915F514CB99}|8.7-ConversionWithParse\\8.7-ConversionWithParse.csproj|solutionrelative:8.7-conversionwithparse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22942B25-5D06-4542-8734-9E7D39AA9C0E}|8.5-out Parameter\\8.5-out Parameter.csproj|e:\\code\\c# code\\chapter08\\8.5-out parameter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22942B25-5D06-4542-8734-9E7D39AA9C0E}|8.5-out Parameter\\8.5-out Parameter.csproj|solutionrelative:8.5-out parameter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9037A6AB-4473-4844-AFEC-F7363D9D50CD}|8.3-ref\\8.3-ref.csproj|e:\\code\\c# code\\chapter08\\8.3-ref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9037A6AB-4473-4844-AFEC-F7363D9D50CD}|8.3-ref\\8.3-ref.csproj|solutionrelative:8.3-ref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0431E28B-9CFC-4F55-A906-8366CCE28355}|Chapter08\\Chapter08.csproj|e:\\code\\c# code\\chapter08\\chapter08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0431E28B-9CFC-4F55-A906-8366CCE28355}|Chapter08\\Chapter08.csproj|solutionrelative:chapter08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\Chapter08\\8.23-OptionParameterDemo\\Program.cs",
+              "RelativeDocumentMoniker": "8.23-OptionParameterDemo\\Program.cs",
+              "ToolTip": "E:\\Code\\C# Code\\Chapter08\\8.23-OptionParameterDemo\\Program.cs",
+              "RelativeToolTip": "8.23-OptionParameterDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:09:18.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\Chapter08\\8.15-BorderDemo1\\Program.cs",
+              "RelativeDocumentMoniker": "8.15-BorderDemo1\\Program.cs",
+              "ToolTip": "E:\\Code\\C# Code\\Chapter08\\8.15-BorderDemo1\\Program.cs",
+              "RelativeToolTip": "8.15-BorderDemo1\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:35:17.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\Chapter08\\8.11-ParameterDemo\\Program.cs",
+              "RelativeDocumentMoniker": "8.11-ParameterDemo\\Program.cs",
+              "ToolTip": "E:\\Code\\C# Code\\Chapter08\\8.11-ParameterDemo\\Program.cs",
+              "RelativeToolTip": "8.11-ParameterDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:06:03.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\Chapter08\\8.10-ConversionWithTryParse\\Program.cs",
+              "RelativeDocumentMoniker": "8.10-ConversionWithTryParse\\Program.cs",
+              "ToolTip": "E:\\Code\\C# Code\\Chapter08\\8.10-ConversionWithTryParse\\Program.cs",
+              "RelativeToolTip": "8.10-ConversionWithTryParse\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:55:59.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\Chapter08\\8.7-ConversionWithParse\\Program.cs",
+              "RelativeDocumentMoniker": "8.7-ConversionWithParse\\Program.cs",
+              "ToolTip": "E:\\Code\\C# Code\\Chapter08\\8.7-ConversionWithParse\\Program.cs",
+              "RelativeToolTip": "8.7-ConversionWithParse\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:51:02.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\Chapter08\\8.5-out Parameter\\Program.cs",
+              "RelativeDocumentMoniker": "8.5-out Parameter\\Program.cs",
+              "ToolTip": "E:\\Code\\C# Code\\Chapter08\\8.5-out Parameter\\Program.cs",
+              "RelativeToolTip": "8.5-out Parameter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:25:32.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\Chapter08\\8.3-ref\\Program.cs",
+              "RelativeDocumentMoniker": "8.3-ref\\Program.cs",
+              "ToolTip": "E:\\Code\\C# Code\\Chapter08\\8.3-ref\\Program.cs",
+              "RelativeToolTip": "8.3-ref\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:20:03.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\C# Code\\Chapter08\\Chapter08\\Program.cs",
+              "RelativeDocumentMoniker": "Chapter08\\Program.cs",
+              "ToolTip": "E:\\Code\\C# Code\\Chapter08\\Chapter08\\Program.cs",
+              "RelativeToolTip": "Chapter08\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:13:33.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

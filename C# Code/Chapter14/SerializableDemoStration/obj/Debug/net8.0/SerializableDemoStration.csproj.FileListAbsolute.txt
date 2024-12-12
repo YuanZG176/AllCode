@@ -1,0 +1,14 @@
+E:\Code\C# Code\Chapter14\SerializableDemoStration\bin\Debug\net8.0\SerializableDemoStration.exe
+E:\Code\C# Code\Chapter14\SerializableDemoStration\bin\Debug\net8.0\SerializableDemoStration.deps.json
+E:\Code\C# Code\Chapter14\SerializableDemoStration\bin\Debug\net8.0\SerializableDemoStration.runtimeconfig.json
+E:\Code\C# Code\Chapter14\SerializableDemoStration\bin\Debug\net8.0\SerializableDemoStration.dll
+E:\Code\C# Code\Chapter14\SerializableDemoStration\bin\Debug\net8.0\SerializableDemoStration.pdb
+E:\Code\C# Code\Chapter14\SerializableDemoStration\obj\Debug\net8.0\SerializableDemoStration.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\Chapter14\SerializableDemoStration\obj\Debug\net8.0\SerializableDemoStration.AssemblyInfoInputs.cache
+E:\Code\C# Code\Chapter14\SerializableDemoStration\obj\Debug\net8.0\SerializableDemoStration.AssemblyInfo.cs
+E:\Code\C# Code\Chapter14\SerializableDemoStration\obj\Debug\net8.0\SerializableDemoStration.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\Chapter14\SerializableDemoStration\obj\Debug\net8.0\SerializableDemoStration.dll
+E:\Code\C# Code\Chapter14\SerializableDemoStration\obj\Debug\net8.0\refint\SerializableDemoStration.dll
+E:\Code\C# Code\Chapter14\SerializableDemoStration\obj\Debug\net8.0\SerializableDemoStration.pdb
+E:\Code\C# Code\Chapter14\SerializableDemoStration\obj\Debug\net8.0\SerializableDemoStration.genruntimeconfig.cache
+E:\Code\C# Code\Chapter14\SerializableDemoStration\obj\Debug\net8.0\ref\SerializableDemoStration.dll

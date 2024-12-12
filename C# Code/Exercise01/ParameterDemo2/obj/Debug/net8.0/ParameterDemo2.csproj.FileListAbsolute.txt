@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Exercise01\ParameterDemo2\bin\Debug\net8.0\ParameterDemo2.exe
+C:\Users\Administrator\source\repos\Exercise01\ParameterDemo2\bin\Debug\net8.0\ParameterDemo2.deps.json
+C:\Users\Administrator\source\repos\Exercise01\ParameterDemo2\bin\Debug\net8.0\ParameterDemo2.runtimeconfig.json
+C:\Users\Administrator\source\repos\Exercise01\ParameterDemo2\bin\Debug\net8.0\ParameterDemo2.dll
+C:\Users\Administrator\source\repos\Exercise01\ParameterDemo2\bin\Debug\net8.0\ParameterDemo2.pdb
+C:\Users\Administrator\source\repos\Exercise01\ParameterDemo2\obj\Debug\net8.0\ParameterDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Exercise01\ParameterDemo2\obj\Debug\net8.0\ParameterDemo2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Exercise01\ParameterDemo2\obj\Debug\net8.0\ParameterDemo2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Exercise01\ParameterDemo2\obj\Debug\net8.0\ParameterDemo2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Exercise01\ParameterDemo2\obj\Debug\net8.0\ParameterDemo2.dll
+C:\Users\Administrator\source\repos\Exercise01\ParameterDemo2\obj\Debug\net8.0\refint\ParameterDemo2.dll
+C:\Users\Administrator\source\repos\Exercise01\ParameterDemo2\obj\Debug\net8.0\ParameterDemo2.pdb
+C:\Users\Administrator\source\repos\Exercise01\ParameterDemo2\obj\Debug\net8.0\ParameterDemo2.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Exercise01\ParameterDemo2\obj\Debug\net8.0\ref\ParameterDemo2.dll

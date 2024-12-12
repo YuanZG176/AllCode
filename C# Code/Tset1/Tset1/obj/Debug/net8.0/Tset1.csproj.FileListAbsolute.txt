@@ -1,0 +1,28 @@
+C:\Users\Administrator\source\repos\Tset1\Tset1\bin\Debug\net8.0\Tset1.exe
+C:\Users\Administrator\source\repos\Tset1\Tset1\bin\Debug\net8.0\Tset1.deps.json
+C:\Users\Administrator\source\repos\Tset1\Tset1\bin\Debug\net8.0\Tset1.runtimeconfig.json
+C:\Users\Administrator\source\repos\Tset1\Tset1\bin\Debug\net8.0\Tset1.dll
+C:\Users\Administrator\source\repos\Tset1\Tset1\bin\Debug\net8.0\Tset1.pdb
+C:\Users\Administrator\source\repos\Tset1\Tset1\obj\Debug\net8.0\Tset1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Tset1\Tset1\obj\Debug\net8.0\Tset1.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Tset1\Tset1\obj\Debug\net8.0\Tset1.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Tset1\Tset1\obj\Debug\net8.0\Tset1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Tset1\Tset1\obj\Debug\net8.0\Tset1.dll
+C:\Users\Administrator\source\repos\Tset1\Tset1\obj\Debug\net8.0\refint\Tset1.dll
+C:\Users\Administrator\source\repos\Tset1\Tset1\obj\Debug\net8.0\Tset1.pdb
+C:\Users\Administrator\source\repos\Tset1\Tset1\obj\Debug\net8.0\Tset1.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Tset1\Tset1\obj\Debug\net8.0\ref\Tset1.dll
+E:\Code\C# Code\Tset1\Tset1\bin\Debug\net8.0\Tset1.exe
+E:\Code\C# Code\Tset1\Tset1\bin\Debug\net8.0\Tset1.deps.json
+E:\Code\C# Code\Tset1\Tset1\bin\Debug\net8.0\Tset1.runtimeconfig.json
+E:\Code\C# Code\Tset1\Tset1\bin\Debug\net8.0\Tset1.dll
+E:\Code\C# Code\Tset1\Tset1\bin\Debug\net8.0\Tset1.pdb
+E:\Code\C# Code\Tset1\Tset1\obj\Debug\net8.0\Tset1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# Code\Tset1\Tset1\obj\Debug\net8.0\Tset1.AssemblyInfoInputs.cache
+E:\Code\C# Code\Tset1\Tset1\obj\Debug\net8.0\Tset1.AssemblyInfo.cs
+E:\Code\C# Code\Tset1\Tset1\obj\Debug\net8.0\Tset1.csproj.CoreCompileInputs.cache
+E:\Code\C# Code\Tset1\Tset1\obj\Debug\net8.0\Tset1.dll
+E:\Code\C# Code\Tset1\Tset1\obj\Debug\net8.0\refint\Tset1.dll
+E:\Code\C# Code\Tset1\Tset1\obj\Debug\net8.0\Tset1.pdb
+E:\Code\C# Code\Tset1\Tset1\obj\Debug\net8.0\Tset1.genruntimeconfig.cache
+E:\Code\C# Code\Tset1\Tset1\obj\Debug\net8.0\ref\Tset1.dll

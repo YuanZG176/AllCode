@@ -1,0 +1,35 @@
+﻿COMP100
+Programing I
+COMP100 is an introductory course in programming. It includes programming concepts, logic and program structures. It seeks to develop good coding practices and program design. It lays the foundations for the design and development of business applications; these will be tested in the C# .NET environment.
+1
+NA
+COMP120
+Software Engineering Fundamentals
+This course introduces students to the common terminologies, methodologies, tools, and techniques used in software engineering which form the basis for advanced studies. Roles of teams, risk management, software testing, and software engineering code of ethics and professional practice will also be introduced.
+1
+COMP100
+COMP122
+Introduction to Database Concepts
+This course introduces students to relational database concepts, as related to personal, client server, and enterprise database systems. Topics will include data types, table structure, and relationships, data access queries using QBE grid and SQL, normalization, and database security. These concepts will be reinforced using Microsoft Access for lab work and group term project. Oracle will also be briefly introduced and used for queries. Microsoft Visio will be used as the diagramming tool to create ERDs.
+1
+COMP100
+COMP123
+Programing II
+In this second course in computer programming, the student will apply design and programming concepts from Programming I, learn additional structured programming concepts, and are introduced to Object-Oriented Programming. The concepts will be presented using both Console and Windows based applications. The language of instruction is C#.
+2
+COMP100
+COMP391
+Introduction to Game and Simulation
+This course introduces the elements of design and development of electronic games, current game delivery systems and software, the commercial development cycle, and case studies of current games.
+2
+COMP100 COMP120
+COMP301
+UNIX/Linux
+This course covers basic operating system concepts using UNIX. Coursework emphasizes Unix File management, using UNIX utilities and developing UNIX scripts. Students will be introduced to basic system administration, PERL scripting, C/C++ and Java development in a UNIX/Linux system.
+4
+COMP100 COMP123 COMP120
+COMP225
+Software Engineering Methodologies 1
+Students will gain an understanding of the information systems environment through the Object-Oriented Systems Analysis and Design (OOSAD) approach. Students will be introduced to methodologies, requirement analysis & design models, UML tools, and techniques that are used to develop modern information systems. The instructor will cover the breadth of applications drawn from business, health and games appropriate for software solutions.
+2
+COMP100 COMP123
